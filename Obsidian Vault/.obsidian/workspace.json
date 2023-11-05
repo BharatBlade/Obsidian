@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "bc561b64a53e8f95",
+    "type": "split",
+    "children": [
+      {
+        "id": "05451f1ef27504ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "853f15a3807a329c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "839ea48c468ef218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADHD/Neurotransmitters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd21c72d641bb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADHD/Dopamine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2455d2f09d2d66dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d61c07288216673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c38aae88fe7e9d6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e68ad24caaf61de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53ab3d7c476afb01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f435149f8a51b00d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b882a41a2a19c38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18082604e27f8591",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADHD/Dopamine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c79a680ae1e7947",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ADHD/Dopamine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4bdc40333ee7eb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c277600fafc7f06b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ADHD/Dopamine.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fcd21c72d641bb04",
+  "lastOpenFiles": [
+    "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
+    "Neuroanatomy",
+    "ADHD",
+    "ADHD/L-DOPA.md",
+    "ADHD/Neurotransmitters.md",
+    "ADHD/Dopamine.md",
+    "Templates/5thIndent.md",
+    "Templates/4thIndent (2).md",
+    "Templates/4thIndent - Copy.md",
+    "Templates/4thIndent.md",
+    "Templates/4thIndent.txt",
+    "Templates/New Text Document.txt",
+    "Templates",
+    "New folder",
+    "Untitled 1.canvas",
+    "2023-11-04.md",
+    "Untitled.canvas"
+  ]
+}
