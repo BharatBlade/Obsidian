@@ -1,0 +1,3 @@
+"The reticular nucleus is a thin layer of cells surrounding the thalamus from anterior to posterior. If you think of the thalamus as an egg, the reticular nucleus is something like the eggshell surrounding the egg—although the eggshell only goes around one half of the egg. Some scientists
+have suggested that the function of the reticular nucleus is like a security guard selectively allowing information to go onto the cerebral cortex. Because it is so thin it is hard to study the reticular nucleus, and it is hard to relate it to a distinct clinical scenario, but it has been implicated in ADHD"
+

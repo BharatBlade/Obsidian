@@ -8,15 +8,6 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "B"
-    }
-  ],
   "editor:set-heading-1": [
     {
       "modifiers": [
@@ -71,12 +62,47 @@
       "key": "6"
     }
   ],
+  "obsidian-hotkeys-for-templates:Template.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
   "obsidian-hotkeys-for-templates:4thIndent.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
+  "leader-hotkeys-obsidian:register-modal": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": " "
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad1"
     }
   ]
 }
