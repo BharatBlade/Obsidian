@@ -6,31 +6,53 @@ $\qquad$$\qquad$$\qquad$Synthesized by removing a carboxyl group from [[L-DOPA]]
 $\qquad$$\qquad$$\qquad$Synthesized to a much smaller extent from p-Tyramine and m-Tyramine
 ### Degradation
 ## Receptors
-### D$_1$
-#### Distribution
-$\qquad$$\qquad$$\qquad$$\qquad$Most abundant [[Dopamine]] receptor in the central nervous system
-$\qquad$$\qquad$$\qquad$$\qquad$Expressed primarily in the dorsal striatum (caudate and putamen) and ventral striatum (nucleus accumbens and olfactory tubercle)
-$\qquad$$\qquad$$\qquad$$\qquad$Lower levels occur in the basolateral amygdala, cerebral cortex?, septum, thalamus, and hypothalamus.
-#### Effect
-$\qquad$$\qquad$$\qquad$$\qquad$Stimulatory receptor
-$\qquad$$\qquad$$\qquad$$\qquad$Attention and memory regulation
-$\qquad$$\qquad$$\qquad$$\qquad$
-### D$_2$
-#### Effect
-$\qquad$$\qquad$$\qquad$$\qquad$Inhibitory receptor
-$\qquad$$\qquad$$\qquad$$\qquad$Locomotion modulation
-$\qquad$$\qquad$$\qquad$$\qquad$Associated with impulsive behaviors, executive functioning, spatial working memory, and planning
-### D$_3$
-#### Distribution
-$\qquad$$\qquad$$\qquad$$\qquad$High concentration in the striatum
-#### Effect
-$\qquad$$\qquad$$\qquad$$\qquad$Inhibitory receptor
-### D$_4$
-#### Effect
-$\qquad$$\qquad$$\qquad$$\qquad$Inhibitory receptor
-### D$_5$
-#### Effect
-$\qquad$$\qquad$$\qquad$$\qquad$Stimulatory receptor
+### D1
+#### Location (Most common)
+$\qquad$$\qquad$$\qquad$$\qquad$• post-synaptic dopamine-mediated cells
+$\qquad$$\qquad$$\qquad$$\qquad$• striatum
+$\qquad$$\qquad$$\qquad$$\qquad$• nucleus accumbens
+$\qquad$$\qquad$$\qquad$$\qquad$• olfactory bulb
+$\qquad$$\qquad$$\qquad$$\qquad$• substantia nigra
+$\qquad$$\qquad$$\qquad$$\qquad$• amygdala
+$\qquad$$\qquad$$\qquad$$\qquad$• frontal cortex
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$• attention
+$\qquad$$\qquad$$\qquad$$\qquad$• impulse control
+$\qquad$$\qquad$$\qquad$$\qquad$• locomotion
+$\qquad$$\qquad$$\qquad$$\qquad$• memory
+$\qquad$$\qquad$$\qquad$$\qquad$• regulation of renal function
+##### Mechanism
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• couple to G stimulatory sites
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• activate adenylyl cyclase
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of the second messenger cAMP
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of protein kinase A (PKA)
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• further transcription in the nucleus
+#### D2
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, learning, locomotion, memory, sleep
+##### Mechanism
+
+#### D3
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, cognition, impulse control, sleep
+#### D4
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, cognition, fear, impulse control, memory, sleep
+#### D5
+##### Location (Most common)
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• post-synaptic dopamine-mediated cells
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• striatum
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• nucleus accumbens
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• olfactory bulb
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• substantia nigra
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, cognition, decision making, renin secretion
+##### Mechanism
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• couple to G stimulatory sites
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• activate adenylyl cyclase
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of the second messenger cAMP
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of protein kinase A (PKA)
+$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• further transcription in the nucleus
 
 # Function:
 ## Roles

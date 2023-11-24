@@ -17,12 +17,12 @@
 
 .theme-light,
 .theme-dark {
-  --background-primary: #282a36;
-  --background-primary-alt: #44475a;
-  --background-secondary: #44475a;
-  --background-secondary-alt: #282a36;
-  --background-accent: #f8f8f2;
-  --background-modifier-border: #f8f8f2;
+  --background-primary: #000000;
+  --background-primary-alt: #000000;
+  --background-secondary: #000000;
+  --background-secondary-alt: #000000;
+  --background-accent: #ffffff;
+  --background-modifier-border: #000000;
   --background-modifier-form-field: rgba(0, 0, 0, 0.2);
   --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.5);
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
@@ -31,10 +31,10 @@
   --background-modifier-error-rgb: 61, 0, 0;
   --background-modifier-error-hover: #470000;
   --background-modifier-cover: rgba(0, 0, 0, 0.6);
-  --text-accent: #ffb86c;
+  --text-accent: #ffffff;
   --text-accent-hover: #8be9fd;
-  --text-normal: #f8f8f2;
-  --text-muted: #f8f8f2;
+  --text-normal: #ffffff;
+  --text-muted: #ffffff;
   --text-faint: #bd93f9;
   --text-highlight-bg: #ff5555;
   --text-error: #ff79c6;
@@ -61,7 +61,7 @@
   --pre-code:                   #44475a;
   --blockquote-border:          #ffb86c;
   --vim-cursor:                 #ff5555;
-  --border-color:               #2b2727; /*also like transparent*/
+  --border-color:               #000000; /*also like transparent*/
 }
 
 /*-------------------------------------*/
