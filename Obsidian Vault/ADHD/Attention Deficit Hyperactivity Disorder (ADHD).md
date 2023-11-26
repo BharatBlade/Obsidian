@@ -52,54 +52,7 @@ $\qquad$ $\qquad$ 4.  In adulthood, along with inattention and restlessness, imp
 ## Neuroanatomy
 children with ADHD present smaller volumes in different subcortical brain regions (i.e., nucleus accumbens, amygdala, caudate, hippocampus, and putamen) and total intracranial volume, as well as decreased cortical surface area (mainly in frontal, cingulate, and temporal regions) and thickness (in the fusiform gyrus and temporal pole) [119]. Such alterations are not observed when restricting the analyses to adults and no effects of psychostimulants were found. Through adopting an independent component analysis of whole-brain morphometry images, associations of ADHD with reduced volumes in frontal lobes, striatum, and their interconnecting white matter microstructure were reported for both children and adults, supporting a role of the frontostriatal circuit regardless of age.
 ## Neurophysiology
-### Dopamine Receptors
-#### D1
-##### Location (Most common)
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• post-synaptic dopamine-mediated cells
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• striatum
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• nucleus accumbens
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• olfactory bulb
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• substantia nigra
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• amygdala
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• frontal cortex
-##### Function
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• attention
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• impulse control
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• locomotion
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• memory
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• regulation of renal function
-##### Mechanism
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• couple to G stimulatory sites
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• activate adenylyl cyclase
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of the second messenger cAMP
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of protein kinase A (PKA)
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• further transcription in the nucleus
-#### D2
-##### Function
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, learning, locomotion, memory, sleep
-##### Mechanism
-
-#### D3
-##### Function
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, cognition, impulse control, sleep
-#### D4
-##### Function
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, cognition, fear, impulse control, memory, sleep
-#### D5
-##### Location (Most common)
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• post-synaptic dopamine-mediated cells
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• striatum
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• nucleus accumbens
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• olfactory bulb
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• substantia nigra
-##### Function
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$attention, cognition, decision making, renin secretion
-##### Mechanism
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• couple to G stimulatory sites
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• activate adenylyl cyclase
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of the second messenger cAMP
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• production of protein kinase A (PKA)
-$\qquad$$\qquad$$\qquad$$\qquad$$\qquad$• further transcription in the nucleus
+### Dopamine Receptors [[Dopamine]]
 
 ### Noradrenergic
 #### Alpha

@@ -1,0 +1,1 @@
+Synthesized from [[3, 4-dihydroxyphenylacetic acid (DOPAC)]] via catechol-O-methyltransferase (COMT)

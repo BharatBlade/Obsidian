@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1df7bf8ebe2d00fc",
+        "id": "24060193789e9184",
         "type": "tabs",
+        "dimension": 61.095100864553324,
         "children": [
           {
-            "id": "8a517c0a07231096",
+            "id": "15ab54a0ec6013e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
+                "file": "References/References.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,11 +23,12 @@
         ]
       },
       {
-        "id": "24060193789e9184",
+        "id": "e86c35e46e0a53e8",
         "type": "tabs",
+        "dimension": 38.90489913544668,
         "children": [
           {
-            "id": "15ab54a0ec6013e3",
+            "id": "c017f631b58aa7d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 276.50418853759766
   },
   "right": {
     "id": "f435149f8a51b00d",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
+                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
+                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md"
+                "file": "Neurochemistry/Neurotransmitters/Dopamine.md"
               }
             }
           }
@@ -165,44 +166,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a517c0a07231096",
+  "active": "c017f631b58aa7d7",
   "lastOpenFiles": [
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Tracts/Ventral Trigeminothalamic.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Brodmann's Areas.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Central Nervous System (CNS).md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Precentral Gyrus.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Frontal Eye Field.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Corpus Callosum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Basal Ganglia.md",
     "Neurochemistry/Neurotransmitters/Dopamine.md",
+    "PDFs",
+    "Gross Anatomy/Adrenal Gland/Adrenal Medulla/Adrenal Medulla.md",
+    "Gross Anatomy/Adrenal Gland/Adrenal Medulla",
+    "Gross Anatomy/Renal/Kidney/Adrenal Gland/Adrenal Cortex/Untitled",
+    "Gross Anatomy/Adrenal Gland/Adrenal Cortex",
+    "Gross Anatomy/Adrenal Gland",
+    "Gross Anatomy/Renal/Kidney",
+    "Gross Anatomy/Renal",
+    "Gross Anatomy",
+    "Neurochemistry/Other Molecules/Intermediates/Levodopa (L-DOPA).md",
+    "Neurochemistry/Enzymes/Tyrosine Hydroxylase.md",
+    "Neurochemistry/Other Molecules/Intermediates/Tyrosine.md",
+    "Neurochemistry/Other Molecules/Cofactors/Pyridoxal Phosphate (B6).md",
+    "Neurochemistry/Enzymes/L-amino acid decarboxylase (DOPA decarboxylase).md",
+    "Neurochemistry/Other Molecules/Cofactors",
+    "Neurochemistry/Other Molecules/Intermediates",
+    "Neurochemistry/Other Molecules/Intermediates/Tyramine.md",
+    "Neurochemistry/Enzymes/Cytochrome P450 2D6.md",
+    "References/References.md",
+    "Neurochemistry/Other Molecules/Intermediates/3,4-Dihydroxyphenylacetaldehyde (DOPAL).md",
     "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
-    "Neurochemistry/Neurotransmitters.md",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Telencephalon/Cerebral Hemispheres/Cerebral Hemispheres.md",
-    "Neuroanatomy/Brain/Hindbrain (rhombencephalon)/Myelencephalon/Medulla Oblongata.md",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Telencephalon/Cerebral Hemispheres",
-    "Neuroanatomy/Brain/Hindbrain (rhombencephalon)/Myelencephalon/Myelencephalon.md",
-    "Templates/Template.md",
-    "Templates/4thIndent - Copy.md",
-    "Neuroanatomy/Brain/Hindbrain (rhombencephalon)/Metencephalon/Cerebellum.md",
-    "Neuroanatomy/Brain/ZZZOld/Parts/Cerebellum/Cerebellum.md",
-    "medullary pyramids.md",
-    "Neuroanatomy/Brain/Midbrain (mesencephalon)/Tectum.md",
-    "Neuroanatomy/Brain/Tracts/Corticospinal Tracts.md",
-    "Neuroanatomy/Brain/Tracts/Medial Lemniscus (Dorsal Column).md",
-    "Neuroanatomy/Brain/Landmark Structures/Anterior Median Fissure.md",
-    "Neuroanatomy/Brain/Landmark Structures/Anterolateral Sulcus.md",
-    "Neuroanatomy/Brain/Landmark Structures",
-    "Neuroanatomy/Brain/Midbrain (mesencephalon)/Cerebral Aqueduct.md",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Telencephalon/Cerebral Cortex",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Telencephalon/Rhinencephalon",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Telencephalon/Subcortical",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Telencephalon/White Matter",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Telencephalon",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Diencephalon/Pituitary Gland",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Diencephalon/Subthalamus",
-    "Neuroanatomy/Brain/Forebrain (prosencephalon)/Diencephalon/Hypothalamus",
-    "Neuroanatomy/Brain/Midbrain (mesencephalon)/Mesencephalic cranial nerve nuclei.md",
-    "Neuroanatomy/Brain/Midbrain (mesencephalon)/Cerebral Peduncle.md",
-    "Neuroanatomy/Brain/Midbrain (mesencephalon)/Tegmentum.md",
-    "Neuroanatomy/Brain/Midbrain (mesencephalon)/Pretectum.md",
-    "Neuroanatomy/Brain/Hindbrain (rhombencephalon)/Metencephalon/Fourth Ventricle.md",
-    "Neuroanatomy/Brain/Hindbrain (rhombencephalon)/Metencephalon/Pons.md",
-    "Neuroanatomy/Brain/ZZZOld/Parts/Thalamus/Medial Geniculate Body (MGB).md",
-    "Neuroanatomy/Brain/Untitled.md",
-    "Neuroanatomy/Brain/ZZZOld/Parts/Internal Capsule/Posterior Limb.md",
+    "Neurochemistry/Other Molecules/Intermediates/3, 4-dihydroxyphenylacetic acid (DOPAC).md",
+    "Neurochemistry/Enzymes/Catechol-O-Methyltransferase (COMT).md",
+    "Neurochemistry/Other Molecules/Intermediates/Homovanillic Acid (HVA).md",
+    "Neurochemistry/Enzymes/Aldehyde Dehydrogenase (ALDH).md",
+    "Neurochemistry/Enzymes/Monoamine Oxidase B (MAO-B).md",
+    "Neurochemistry/Enzymes/Vesicular MonoAmine Transporter 2 (VMAT2).md",
+    "Neurochemistry/Neurotransmitters/Epinephrine.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
