@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "24060193789e9184",
+        "id": "64c5369633fe3181",
         "type": "tabs",
-        "dimension": 61.095100864553324,
         "children": [
           {
-            "id": "15ab54a0ec6013e3",
+            "id": "f28602b37b885c2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "References/References.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/klein2018.pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "e86c35e46e0a53e8",
+        "id": "557d98679f71eebc",
         "type": "tabs",
-        "dimension": 38.90489913544668,
         "children": [
           {
-            "id": "c017f631b58aa7d7",
+            "id": "3e15a26036a1a573",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,8 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5444cd4d22f0e116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "substantia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.50418853759766
+    "width": 343.50418853759766
   },
   "right": {
     "id": "f435149f8a51b00d",
@@ -105,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
+                "file": "PDFs/klein2018.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
+                "file": "PDFs/klein2018.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neurochemistry/Neurotransmitters/Dopamine.md"
+                "file": "PDFs/klein2018.pdf"
               }
             }
           }
@@ -166,44 +175,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c017f631b58aa7d7",
+  "active": "f28602b37b885c2b",
   "lastOpenFiles": [
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Tracts/Ventral Trigeminothalamic.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Brodmann's Areas.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Central Nervous System (CNS).md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Precentral Gyrus.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Frontal Eye Field.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Corpus Callosum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/ZZZOld/Parts/Basal Ganglia.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
     "Neurochemistry/Neurotransmitters/Dopamine.md",
+    "PDFs/klein2018.pdf",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Putamen.md",
+    "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
+    "Putamen.md",
+    "Hippocampus.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Central Nervous System (CNS).md",
+    "Neurochemistry/Other Molecules/Intermediates/Levodopa (L-DOPA).md",
+    "PDFs/klein2018 1.pdf",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Striatum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Olfactory Bulb.md",
+    "Neurochemistry/Other Molecules/Intermediates/3,4-Dihydroxyphenylacetaldehyde (DOPAL).md",
+    "Neurochemistry/Other Molecules/Intermediates/3, 4-dihydroxyphenylacetic acid (DOPAC).md",
+    "Neurochemistry/Enzymes/Monoamine Oxidase B (MAO-B).md",
+    "Neurochemistry/Neurotransmitters/Epinephrine.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Cortices/Frontal Cortex.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+    "Neurochemistry/Enzymes/Cytochrome P450 2D6.md",
+    "Neurochemistry/Neurotransmitters/Neurotransmitters.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Functional Areas/Brodmann's Areas.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Nuclei/Mesencephalic cranial nerve nuclei.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Nuclei",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Landmarks/Anterior Median Fissure.md",
     "PDFs",
-    "Gross Anatomy/Adrenal Gland/Adrenal Medulla/Adrenal Medulla.md",
     "Gross Anatomy/Adrenal Gland/Adrenal Medulla",
     "Gross Anatomy/Renal/Kidney/Adrenal Gland/Adrenal Cortex/Untitled",
     "Gross Anatomy/Adrenal Gland/Adrenal Cortex",
     "Gross Anatomy/Adrenal Gland",
     "Gross Anatomy/Renal/Kidney",
-    "Gross Anatomy/Renal",
-    "Gross Anatomy",
-    "Neurochemistry/Other Molecules/Intermediates/Levodopa (L-DOPA).md",
-    "Neurochemistry/Enzymes/Tyrosine Hydroxylase.md",
-    "Neurochemistry/Other Molecules/Intermediates/Tyrosine.md",
-    "Neurochemistry/Other Molecules/Cofactors/Pyridoxal Phosphate (B6).md",
-    "Neurochemistry/Enzymes/L-amino acid decarboxylase (DOPA decarboxylase).md",
-    "Neurochemistry/Other Molecules/Cofactors",
-    "Neurochemistry/Other Molecules/Intermediates",
-    "Neurochemistry/Other Molecules/Intermediates/Tyramine.md",
-    "Neurochemistry/Enzymes/Cytochrome P450 2D6.md",
-    "References/References.md",
-    "Neurochemistry/Other Molecules/Intermediates/3,4-Dihydroxyphenylacetaldehyde (DOPAL).md",
-    "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
-    "Neurochemistry/Other Molecules/Intermediates/3, 4-dihydroxyphenylacetic acid (DOPAC).md",
-    "Neurochemistry/Enzymes/Catechol-O-Methyltransferase (COMT).md",
-    "Neurochemistry/Other Molecules/Intermediates/Homovanillic Acid (HVA).md",
-    "Neurochemistry/Enzymes/Aldehyde Dehydrogenase (ALDH).md",
-    "Neurochemistry/Enzymes/Monoamine Oxidase B (MAO-B).md",
-    "Neurochemistry/Enzymes/Vesicular MonoAmine Transporter 2 (VMAT2).md",
-    "Neurochemistry/Neurotransmitters/Epinephrine.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

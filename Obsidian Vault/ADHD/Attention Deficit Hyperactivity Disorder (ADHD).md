@@ -1,5 +1,5 @@
 # Definition
-$\qquad$Attention Deficit Hyperactivity Disorder (ADHD) is defined by the Diagnostic and Statistical Manual of Mental Disorders (DSM-V) as a chronic neurodevelopment disorder. It is described as a persistent, functionally debilitating pattern of inattention, hyperactivity, and/or impulsivity.
+$\qquad$[[Attention Deficit Hyperactivity Disorder (ADHD)]] is defined by the Diagnostic and Statistical Manual of Mental Disorders (DSM-V) as a chronic neurodevelopment disorder. It is described as a persistent, functionally debilitating pattern of inattention, hyperactivity, and/or impulsivity.
 
 # Clinical Significance
 ## Symptoms
@@ -50,9 +50,8 @@ $\qquad$ $\qquad$ 4.  In adulthood, along with inattention and restlessness, imp
 
 # Basic Science
 ## Neuroanatomy
-children with ADHD present smaller volumes in different subcortical brain regions (i.e., nucleus accumbens, amygdala, caudate, hippocampus, and putamen) and total intracranial volume, as well as decreased cortical surface area (mainly in frontal, cingulate, and temporal regions) and thickness (in the fusiform gyrus and temporal pole) [119]. Such alterations are not observed when restricting the analyses to adults and no effects of psychostimulants were found. Through adopting an independent component analysis of whole-brain morphometry images, associations of ADHD with reduced volumes in frontal lobes, striatum, and their interconnecting white matter microstructure were reported for both children and adults, supporting a role of the frontostriatal circuit regardless of age.
+children with ADHD present smaller volumes in different subcortical brain regions (i.e., [[nucleus accumbens]], [[amygdala]], [[caudate]], [[hippocampus]], and [[putamen]]) and total intracranial volume, as well as decreased cortical surface area (mainly in frontal, cingulate, and temporal regions) and thickness (in the fusiform gyrus and temporal pole) [119]. Such alterations are not observed when restricting the analyses to adults and no effects of psychostimulants were found. Through adopting an independent component analysis of whole-brain morphometry images, associations of ADHD with reduced volumes in frontal lobes, striatum, and their interconnecting white matter microstructure were reported for both children and adults, supporting a role of the frontostriatal circuit regardless of age.
 ## Neurophysiology
-### Dopamine Receptors [[Dopamine]]
 
 ### Noradrenergic
 #### Alpha

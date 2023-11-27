@@ -2,5 +2,9 @@
   "accentColor": "#ff0000",
   "translucency": true,
   "cssTheme": "Dracula for Obsidian",
-  "baseFontSize": 28
+  "baseFontSize": 28,
+  "enabledCssSnippets": [
+    "obsidian",
+    "snippet"
+  ]
 }

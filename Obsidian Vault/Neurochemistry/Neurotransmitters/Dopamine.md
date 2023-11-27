@@ -14,65 +14,80 @@ $\qquad$$\qquad$$\qquad$• Sensitive to oxidation
 $\qquad$$\qquad$$\qquad$• Degrades into [[3,4-Dihydroxyphenylacetaldehyde (DOPAL)]] via [[Monoamine Oxidase B (MAO-B)]]
 $\qquad$$\qquad$$\qquad$• 
 ## Receptors
-### D1
-#### Location (Most common)
+### D1-Like Receptors (Stimulatory)
+
+#### D1
+##### Location (Most common)
 $\qquad$$\qquad$$\qquad$$\qquad$• post-synaptic dopamine-mediated cells
-$\qquad$$\qquad$$\qquad$$\qquad$• striatum
-$\qquad$$\qquad$$\qquad$$\qquad$• nucleus accumbens
-$\qquad$$\qquad$$\qquad$$\qquad$• olfactory bulb
-$\qquad$$\qquad$$\qquad$$\qquad$• substantia nigra
-$\qquad$$\qquad$$\qquad$$\qquad$• amygdala
-$\qquad$$\qquad$$\qquad$$\qquad$• frontal cortex
-#### Function
+$\qquad$$\qquad$$\qquad$$\qquad$• Coupled to Gα$_{s,olf}$ protein
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Caudate]]-[[Putamen]] [[Striatum]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Nucleus Accumbens]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Olfactory Bulb]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Substantia Nigra]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Amygdala]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Frontal Cortex]]
+##### Function
 $\qquad$$\qquad$$\qquad$$\qquad$• attention
 $\qquad$$\qquad$$\qquad$$\qquad$• impulse control
 $\qquad$$\qquad$$\qquad$$\qquad$• locomotion
 $\qquad$$\qquad$$\qquad$$\qquad$• memory
 $\qquad$$\qquad$$\qquad$$\qquad$• regulation of renal function
-#### Mechanism
+##### Mechanism
 $\qquad$$\qquad$$\qquad$$\qquad$• couple to G stimulatory sites
 $\qquad$$\qquad$$\qquad$$\qquad$• activate adenylyl cyclase
 $\qquad$$\qquad$$\qquad$$\qquad$• production of the second messenger cAMP
 $\qquad$$\qquad$$\qquad$$\qquad$• production of protein kinase A (PKA)
 $\qquad$$\qquad$$\qquad$$\qquad$• further transcription in the nucleus
-### D2
-#### Function
-$\qquad$$\qquad$$\qquad$$\qquad$• attention
-$\qquad$$\qquad$$\qquad$$\qquad$• learning
-$\qquad$$\qquad$$\qquad$$\qquad$• locomotion
-$\qquad$$\qquad$$\qquad$$\qquad$• memory
-$\qquad$$\qquad$$\qquad$$\qquad$• sleep
-#### Mechanism
-
-### D3
-#### Function
-$\qquad$$\qquad$$\qquad$$\qquad$• attention
-$\qquad$$\qquad$$\qquad$$\qquad$• cognition
-$\qquad$$\qquad$$\qquad$$\qquad$• impulse control
-$\qquad$$\qquad$$\qquad$$\qquad$• sleep
-### D4
-#### Function
-$\qquad$$\qquad$$\qquad$$\qquad$• attention
-$\qquad$$\qquad$$\qquad$$\qquad$• cognition
-$\qquad$$\qquad$$\qquad$$\qquad$• fear
-$\qquad$$\qquad$$\qquad$$\qquad$• impulse control
-$\qquad$$\qquad$$\qquad$$\qquad$• memory
-$\qquad$$\qquad$$\qquad$$\qquad$• sleep
-### D5
-#### Location (Most common)
+#### D5
+##### Location (Most common)
 $\qquad$$\qquad$$\qquad$$\qquad$• post-synaptic dopamine-mediated cells
-$\qquad$$\qquad$$\qquad$$\qquad$• striatum
-$\qquad$$\qquad$$\qquad$$\qquad$• nucleus accumbens
-$\qquad$$\qquad$$\qquad$$\qquad$• olfactory bulb
-$\qquad$$\qquad$$\qquad$$\qquad$• substantia nigra
-#### Function
+$\qquad$$\qquad$$\qquad$$\qquad$• Coupled to Gα$_{s,olf}$ protein
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Striatum]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Nucleus Accumbens]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Olfactory Bulb]]
+$\qquad$$\qquad$$\qquad$$\qquad$• [[Substantia Nigra]]
+##### Function
 $\qquad$$\qquad$$\qquad$$\qquad$• attention, cognition, decision making, renin secretion
-#### Mechanism
+##### Mechanism
 $\qquad$$\qquad$$\qquad$$\qquad$• couple to G stimulatory sites
 $\qquad$$\qquad$$\qquad$$\qquad$• activate adenylyl cyclase
 $\qquad$$\qquad$$\qquad$$\qquad$• production of the second messenger cAMP
 $\qquad$$\qquad$$\qquad$$\qquad$• production of protein kinase A (PKA)
 $\qquad$$\qquad$$\qquad$$\qquad$• further transcription in the nucleus
 $\qquad$$\qquad$$\qquad$$\qquad$• higher affinity to dopamine than D1 receptors
+### D2-Like Rceptors (Inhibitory)
+#### D2
+##### Location
+$\qquad$$\qquad$$\qquad$$\qquad$• Presynaptic and postsynaptic dopamine-mediated cells
+$\qquad$$\qquad$$\qquad$$\qquad$• Coupled to Gα$_{i,o}$ protein
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$• attention
+$\qquad$$\qquad$$\qquad$$\qquad$• learning
+$\qquad$$\qquad$$\qquad$$\qquad$• locomotion
+$\qquad$$\qquad$$\qquad$$\qquad$• memory
+$\qquad$$\qquad$$\qquad$$\qquad$• sleep
+##### Mechanism
+
+#### D3
+##### Location
+$\qquad$$\qquad$$\qquad$$\qquad$• Presynaptic and postsynaptic dopamine-mediated cells
+$\qquad$$\qquad$$\qquad$$\qquad$• Coupled to Gα$_{i,o}$ protein
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$• attention
+$\qquad$$\qquad$$\qquad$$\qquad$• cognition
+$\qquad$$\qquad$$\qquad$$\qquad$• impulse control
+$\qquad$$\qquad$$\qquad$$\qquad$• sleep
+#### D4
+##### Location
+$\qquad$$\qquad$$\qquad$$\qquad$• Retina
+$\qquad$$\qquad$$\qquad$$\qquad$• Coupled to Gα$_{i,o}$ protein
+##### Function
+$\qquad$$\qquad$$\qquad$$\qquad$• attention
+$\qquad$$\qquad$$\qquad$$\qquad$• cognition
+$\qquad$$\qquad$$\qquad$$\qquad$• fear
+$\qquad$$\qquad$$\qquad$$\qquad$• impulse control
+$\qquad$$\qquad$$\qquad$$\qquad$• memory
+$\qquad$$\qquad$$\qquad$$\qquad$• sleep
+
 
 # Synthesis
