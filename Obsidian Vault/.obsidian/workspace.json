@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64c5369633fe3181",
+        "id": "3686bf75cac2f966",
         "type": "tabs",
         "children": [
           {
-            "id": "f28602b37b885c2b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/klein2018.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "557d98679f71eebc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3e15a26036a1a573",
+            "id": "0847b144c24a1990",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,21 +18,24 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f097bcf1da643f65",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5444cd4d22f0e116",
+            "id": "2612ce6852919292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/klein2018.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.50418853759766
+    "width": 503.5
   },
   "right": {
     "id": "f435149f8a51b00d",
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/klein2018.pdf",
+                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/klein2018.pdf",
+                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/klein2018.pdf"
+                "file": "Neurochemistry/Neurotransmitters/Dopamine.md"
               }
             }
           }
@@ -162,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,43 +161,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f28602b37b885c2b",
+  "active": "0847b144c24a1990",
   "lastOpenFiles": [
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
-    "Neurochemistry/Neurotransmitters/Dopamine.md",
     "PDFs/klein2018.pdf",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Putamen.md",
-    "ADHD/Attention Deficit Hyperactivity Disorder (ADHD).md",
-    "Putamen.md",
-    "Hippocampus.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Central Nervous System (CNS).md",
-    "Neurochemistry/Other Molecules/Intermediates/Levodopa (L-DOPA).md",
-    "PDFs/klein2018 1.pdf",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Striatum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Olfactory Bulb.md",
-    "Neurochemistry/Other Molecules/Intermediates/3,4-Dihydroxyphenylacetaldehyde (DOPAL).md",
-    "Neurochemistry/Other Molecules/Intermediates/3, 4-dihydroxyphenylacetic acid (DOPAC).md",
-    "Neurochemistry/Enzymes/Monoamine Oxidase B (MAO-B).md",
-    "Neurochemistry/Neurotransmitters/Epinephrine.md",
+    "Neurochemistry/Neurotransmitters/Dopamine.md",
+    "PDFs/~~$klein2018.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Cortices/Frontal Cortex.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-    "Neurochemistry/Enzymes/Cytochrome P450 2D6.md",
-    "Neurochemistry/Neurotransmitters/Neurotransmitters.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Functional Areas/Brodmann's Areas.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
+    "Neurochemistry/Other Molecules/Intermediates/3,4-Dihydroxyphenylacetaldehyde (DOPAL).md",
+    "Neurochemistry/Other Molecules/Intermediates/3, 4-dihydroxyphenylacetic acid (DOPAC).md",
+    "Neurochemistry/Other Molecules/Intermediates/Homovanillic Acid (HVA).md",
+    "Neurochemistry/Enzymes/Dopamine β-hydroxylase.md",
+    "Neurochemistry/Enzymes/phenylethanolamine N-methyltransferase.md",
+    "Neurochemistry/Neurotransmitters/Norepinephrine.md",
+    "Neurochemistry/Other Molecules/Intermediates/Levodopa (L-DOPA).md",
+    "Neurochemistry/Other Molecules/Intermediates/Tyrosine.md",
+    "Neurochemistry/Neurotransmitters/Glutamate N-methyl-d-aspartate (NMDA).md",
+    "Neurochemistry/Enzymes/Norepinephrine transporter (NET).md",
+    "Neurochemistry/Enzymes/mTOR complex 2 j(mTORC2).md",
+    "Neurochemistry/Enzymes/Monoamine oxidase (MAO).md",
+    "Neurochemistry/Enzymes/Monoamine transporter (MAT).md",
+    "Neurochemistry/Enzymes/Microtubule-associated protein (MAPT).md",
+    "Neurochemistry/Enzymes/Mitogen-activated protein kinase (MAPK).md",
+    "Neurochemistry/Enzymes/Leucine-rich repeat kinase 2 (LRRK2).md",
+    "Neurochemistry/Enzymes/c-Jun kinase (JNK).md",
+    "Neurochemistry/Other Molecules/Cofactors/Inositol trisphosphate (IP3).md",
+    "Neurochemistry/Other Molecules/Unsorted/Insulin growth factor (IGF).md",
+    "Neurochemistry/Enzymes/Vesicular MonoAmine Transporter 2 (VMAT2).md",
+    "Neurochemistry/Other Molecules/Cofactors/Guanosine triphosphate (GTP).md",
+    "Neurochemistry/Enzymes/Untitled.md",
+    "Neurochemistry/Enzymes/Untitled",
+    "Neurochemistry/Other Molecules/Unsorted",
+    "PDFs/klein2018 1.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Nuclei/Mesencephalic cranial nerve nuclei.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Nuclei",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Landmarks/Anterior Median Fissure.md",
     "PDFs",
     "Gross Anatomy/Adrenal Gland/Adrenal Medulla",
     "Gross Anatomy/Renal/Kidney/Adrenal Gland/Adrenal Cortex/Untitled",
-    "Gross Anatomy/Adrenal Gland/Adrenal Cortex",
-    "Gross Anatomy/Adrenal Gland",
-    "Gross Anatomy/Renal/Kidney",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
