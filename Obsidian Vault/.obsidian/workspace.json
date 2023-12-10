@@ -4,34 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "3686bf75cac2f966",
+        "id": "4bf50304618d9e6f",
         "type": "tabs",
+        "dimension": 43.14015375517445,
         "children": [
           {
-            "id": "0847b144c24a1990",
+            "id": "d84ef5ac3fad74ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "f097bcf1da643f65",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2612ce6852919292",
+            "id": "1594d3a734e064dc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PDFs/klein2018.pdf"
+                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "64b46406c1ae3839",
+        "type": "tabs",
+        "dimension": 56.859846244825555,
+        "children": [
+          {
+            "id": "673a245f1cb7e296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -64,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "substantia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 417.5
   },
   "right": {
     "id": "f435149f8a51b00d",
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
+                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neurochemistry/Neurotransmitters/Dopamine.md",
+                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neurochemistry/Neurotransmitters/Dopamine.md"
+                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf"
               }
             }
           }
@@ -149,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,43 +177,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0847b144c24a1990",
+  "active": "1594d3a734e064dc",
   "lastOpenFiles": [
-    "PDFs/klein2018.pdf",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+    "PDFs/Anatomy/Amygdala/ko2022.pdf",
+    "PDFs/Anatomy/Amygdala/Unconfirmed 718936.crdownload",
+    "PDFs/Anatomy/Amygdala/ou2023.pdf",
+    "PDFs/Anatomy/Amygdala/Unconfirmed 334050.crdownload",
+    "PDFs/Anatomy/Amygdala/suk2023.pdf",
+    "PDFs/Anatomy/Amygdala/Unconfirmed 918306.crdownload",
+    "PDFs/Anatomy/Amygdala/sun2023.pdf",
+    "PDFs/Anatomy/Amygdala/Unconfirmed 650727.crdownload",
+    "PDFs/Anatomy/Amygdala/mukherjee2022.pdf",
+    "PDFs/Anatomy/Amygdala/Mukherjee2022.pdf",
+    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
     "Neurochemistry/Neurotransmitters/Dopamine.md",
-    "PDFs/~~$klein2018.pdf",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Cortices/Frontal Cortex.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tegmentum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tectum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Subthalamus.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
-    "Neurochemistry/Other Molecules/Intermediates/3,4-Dihydroxyphenylacetaldehyde (DOPAL).md",
-    "Neurochemistry/Other Molecules/Intermediates/3, 4-dihydroxyphenylacetic acid (DOPAC).md",
-    "Neurochemistry/Other Molecules/Intermediates/Homovanillic Acid (HVA).md",
-    "Neurochemistry/Enzymes/Dopamine β-hydroxylase.md",
-    "Neurochemistry/Enzymes/phenylethanolamine N-methyltransferase.md",
-    "Neurochemistry/Neurotransmitters/Norepinephrine.md",
-    "Neurochemistry/Other Molecules/Intermediates/Levodopa (L-DOPA).md",
-    "Neurochemistry/Other Molecules/Intermediates/Tyrosine.md",
-    "Neurochemistry/Neurotransmitters/Glutamate N-methyl-d-aspartate (NMDA).md",
-    "Neurochemistry/Enzymes/Norepinephrine transporter (NET).md",
-    "Neurochemistry/Enzymes/mTOR complex 2 j(mTORC2).md",
-    "Neurochemistry/Enzymes/Monoamine oxidase (MAO).md",
-    "Neurochemistry/Enzymes/Monoamine transporter (MAT).md",
-    "Neurochemistry/Enzymes/Microtubule-associated protein (MAPT).md",
-    "Neurochemistry/Enzymes/Mitogen-activated protein kinase (MAPK).md",
-    "Neurochemistry/Enzymes/Leucine-rich repeat kinase 2 (LRRK2).md",
-    "Neurochemistry/Enzymes/c-Jun kinase (JNK).md",
-    "Neurochemistry/Other Molecules/Cofactors/Inositol trisphosphate (IP3).md",
-    "Neurochemistry/Other Molecules/Unsorted/Insulin growth factor (IGF).md",
-    "Neurochemistry/Enzymes/Vesicular MonoAmine Transporter 2 (VMAT2).md",
-    "Neurochemistry/Other Molecules/Cofactors/Guanosine triphosphate (GTP).md",
-    "Neurochemistry/Enzymes/Untitled.md",
-    "Neurochemistry/Enzymes/Untitled",
-    "Neurochemistry/Other Molecules/Unsorted",
-    "PDFs/klein2018 1.pdf",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Nuclei",
-    "PDFs",
-    "Gross Anatomy/Adrenal Gland/Adrenal Medulla",
-    "Gross Anatomy/Renal/Kidney/Adrenal Gland/Adrenal Cortex/Untitled",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Striatum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Putamen.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pretectum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pons.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pituitary.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Olfactory Bulb.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Medulla Oblongata.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hypothalamus.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hippocampus.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Globus Pallidus.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Fourth Ventricle.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Corpus Callosum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Peduncle.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Hemispheres.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

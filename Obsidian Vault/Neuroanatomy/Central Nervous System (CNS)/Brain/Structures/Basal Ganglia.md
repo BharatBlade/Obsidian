@@ -1,0 +1,1 @@
+Contains the ventral pallidum

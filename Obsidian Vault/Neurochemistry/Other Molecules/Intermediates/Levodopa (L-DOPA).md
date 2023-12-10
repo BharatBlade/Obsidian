@@ -9,6 +9,8 @@ $\qquad$$\qquad$$\qquad$• Synthesized from L-[[Tyrosine]] via [[Tyrosine hydro
 $\qquad$$\qquad$$\qquad$• Minor synthesis pathway [[klein2018.pdf#page=3&selection=88,43,92,16|klein2018, page 3]]:
 > p-[[Tyramine]] can be converted to [[dopamine]] through [[Cytochrome P450 2D6]] activity in the substantia nigra
 
+
+
 $\qquad$$\qquad$$\qquad$• 
 ### Degradation
 $\qquad$$\qquad$$\qquad$• Degraded into [[dopamine]] via [[L-amino acid decarboxylase (DOPA decarboxylase)]]

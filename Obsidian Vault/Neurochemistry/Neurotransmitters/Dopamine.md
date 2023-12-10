@@ -22,6 +22,27 @@ $\qquad$$\qquad$$\qquad$• Dopamine can be converted to [[norepinephrine]] and 
 >  In noradrenergic and adrenergic cells, dopamine can be further converted into norepinephrine and epinephrine by sequential modifications from dopamine β-hydroxylase and phenylethanolamine N-methyltransferase in the presence of O 2 , l-ascorbic acid, and s-adenosyl-l-methionine
 
 [[klein2018.pdf#page=3&selection=98,41,119,11|klein2018, page 3]]
+
+### Modulation
+#### Direct Pathway
+> The modulation of the direct pathway involves the activation of [[Subthalamus|subthalamic nucleus]] which can activate the [[Dopamine|dopaminergic]] neurons of [[nigrostriatal]] pathway
+
+[[klein2018.pdf#page=13&selection=4,7,6,45|klein2018, page 13]]
+
+> In the [[striatum]], inhibitory neurons expressing D1 receptors are activated by [[dopamine]], which results in the inhibition of the medial part of the [[globus pallidus]] and allows for [[thalamocortical]] signaling
+
+[[klein2018.pdf#page=13&selection=7,7,18,36|klein2018, page 13]]
+
+
+#### Indirect Pathway
+>  The modulation of the indirect pathway also occurs, but in this case the targets are inhibitory neurons present in striatum expressing D2 receptors
+
+[[klein2018.pdf#page=13&selection=25,33,32,4|klein2018, page 13]]
+
+> D2 receptor stimulation inhibits the striatal neurons, which disinhibits the external globus pallidus and results in thalamocortical signaling
+
+[[klein2018.pdf#page=13&selection=32,36,37,40|klein2018, page 13]]
+
 ## Receptors
 ### D1-Like Receptors (Stimulatory)
 
@@ -49,12 +70,22 @@ $\qquad$$\qquad$$\qquad$$\qquad$• impulse control
 $\qquad$$\qquad$$\qquad$$\qquad$• locomotion
 $\qquad$$\qquad$$\qquad$$\qquad$• memory
 $\qquad$$\qquad$$\qquad$$\qquad$• regulation of renal function
+> D1, D2, and D3 receptors are known to control locomotor activity
+
+[[klein2018.pdf#page=7&selection=46,0,47,8|klein2018, page 7]]
+
+>[[Dopamine]] acts at D1 but not D2 receptors in the context of maternal behavior 
+
+[[klein2018.pdf#page=12&selection=83,1,84,21|klein2018, page 12]]
 ##### Mechanism
 $\qquad$$\qquad$$\qquad$$\qquad$• couple to G stimulatory sites
 $\qquad$$\qquad$$\qquad$$\qquad$• activate adenylyl cyclase
 $\qquad$$\qquad$$\qquad$$\qquad$• production of the second messenger cAMP
 $\qquad$$\qquad$$\qquad$$\qquad$• production of protein kinase A (PKA)
 $\qquad$$\qquad$$\qquad$$\qquad$• further transcription in the nucleus
+> D1 receptor having the lowest affinity within the D1-like family
+
+[[klein2018.pdf#page=7&selection=8,20,9,25|klein2018, page 7]]
 #### D5
 ##### Location (Most common)
 $\qquad$$\qquad$$\qquad$$\qquad$• post-synaptic dopamine-mediated cells
@@ -80,14 +111,45 @@ $\qquad$$\qquad$$\qquad$$\qquad$• Presynaptic and postsynaptic dopamine-mediat
 
 [[klein2018.pdf#page=6&selection=55,33,56,35|klein2018, page 6]]
 $\qquad$$\qquad$$\qquad$$\qquad$• Coupled to Gα$_{i,o}$ protein
+> D2, D3, and D4 receptors are coupled to Gαi,o protein
+
+[[klein2018.pdf#page=6&selection=64,42,68,7|klein2018, page 6]]
+
+> Alternative splicing is particularly important for the D2 receptor, and it leads to the genera- tion of two distinct receptor isoforms: D2S (D2-short) and D2L (D2-long)
+
+[[klein2018.pdf#page=7&selection=32,22,35,13|klein2018, page 7]]
+
+> D2S is mostly expressed in presynaptic regions, being involved in autoreceptor functions, whereas D2L apparently is at postsynaptic regions
+
+[[klein2018.pdf#page=7&selection=39,49,42,11|klein2018, page 7]]
+
+
 ##### Function
 $\qquad$$\qquad$$\qquad$$\qquad$• attention
 $\qquad$$\qquad$$\qquad$$\qquad$• learning
 $\qquad$$\qquad$$\qquad$$\qquad$• locomotion
 $\qquad$$\qquad$$\qquad$$\qquad$• memory
 $\qquad$$\qquad$$\qquad$$\qquad$• sleep
-##### Mechanism
 
+> Activation of presynaptic D2-like autoreceptors usually decreases [[dopamine]] release, which leads to decreased locomotion, at the same time that activation of postsynaptic receptors increases locomotor activity
+
+[[klein2018.pdf#page=7&selection=51,7,54,38|klein2018, page 7]]
+
+> D2 subtype of the [[dopamine]] receptor is predominant in the lactotroph
+
+[[klein2018.pdf#page=13&selection=81,4,82,17|klein2018, page 13]]
+##### Mechanism
+> D2-like receptors have from 10- to 100-fold greater affinity to [[dopamine]] than D1-like receptors
+
+[[klein2018.pdf#page=7&selection=6,31,8,9|klein2018, page 7]]
+
+> D2 receptor stimulation inhibits the [[striatum|striatal]] neurons, which disinhibits the external [[globus pallidus]] and results in [[thalamocortical]] signaling (Kravitz et al. 2010; Cachope and Cheer 2014).
+
+[[klein2018.pdf#page=13&selection=32,36,38,46|klein2018, page 13]]
+
+> On the other hand, it is believed that [[dopamine]] acts by blocking the entrance of Ca$^{2+}$ in the lactotrophs, which is essential for [[prolactin]] exocytosis.
+
+[[klein2018.pdf#page=13&selection=86,51,95,21|klein2018, page 13]]
 #### D3
 ##### Location
 $\qquad$$\qquad$$\qquad$$\qquad$• Presynaptic and postsynaptic dopamine-mediated cells

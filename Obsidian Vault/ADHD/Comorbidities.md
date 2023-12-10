@@ -1,0 +1,3 @@
+> Many large epidemiologic and clinical studies show that ADHD often co-occurs with other psychiatric disorders, especially depression, bipolar disorder, autism spectrum disorders, anxiety disorders, oppositional defiant disorder, conduct disorder, eating disorders, and substance use disorders (Bernardi et al., 2012; Chen et al., 2018c; Groenman et al., 2017; Nazar et al., 2016; Solberg et al., 2018; Tung et al., 2016; Yao et al., 2019). Their presence does not rule out a diagnosis of ADHD.
+
+[[faraone2021.pdf#page=6&selection=24,3,43,47|faraone2021, page 6]]

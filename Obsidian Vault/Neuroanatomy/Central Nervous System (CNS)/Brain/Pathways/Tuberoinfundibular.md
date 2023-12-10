@@ -1,0 +1,3 @@
+> The [[tuberoinfundibular]] dopaminergic pathway is constituted of projections from the [[arcuate nucleus]] and the [[paraventricular Nucleus|periventricular nucleus]] of the [[hypothalamus]] to the [[pituitary]] gland (Fig. 2b), and regulates the secretion of [[prolactin]] from the anterior [[pituitary]] gland (Demarest et al. 1983, 1984). 
+
+[[klein2018.pdf#page=13&selection=53,0,57,55|klein2018, page 13]]
