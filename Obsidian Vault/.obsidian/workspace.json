@@ -24,66 +24,14 @@
             "id": "1594d3a734e064dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21e728c74e200842",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "PDFs/Anatomy/Caudate/greven2015.pdf"
-              }
-            }
-          },
-          {
-            "id": "6154c075d4724f96",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Caudate/dang2016.pdf"
-              }
-            }
-          },
-          {
-            "id": "7b8c54c2d0dcd73d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Caudate/yang2017.pdf"
-              }
-            }
-          },
-          {
-            "id": "1ff8c955765217c3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Caudate/damiani2020.pdf"
-              }
-            }
-          },
-          {
-            "id": "9c5a77eae9066998",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Caudate/mamiya2022.pdf"
+                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "64b46406c1ae3839",
@@ -168,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Anatomy/Caudate/greven2015.pdf",
+                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Anatomy/Caudate/greven2015.pdf",
+                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Anatomy/Caudate/greven2015.pdf"
+                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf"
               }
             }
           }
@@ -229,14 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21e728c74e200842",
+  "active": "1594d3a734e064dc",
   "lastOpenFiles": [
-    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+    "PDFs/Anatomy/Caudate/greven2015.pdf",
     "PDFs/Anatomy/Caudate/mamiya2022.pdf",
+    "PDFs/Anatomy/Cerebellum/wu2022.pdf",
+    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
     "PDFs/Anatomy/Caudate/damiani2020.pdf",
     "PDFs/Anatomy/Caudate/yang2017.pdf",
     "PDFs/Anatomy/Caudate/dang2016.pdf",
-    "PDFs/Anatomy/Caudate/greven2015.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
     "PDFs/Anatomy/Basal Ganglia/cascone2023.pdf",
