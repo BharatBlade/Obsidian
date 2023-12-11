@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md"
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md"
               }
             }
           }
@@ -215,26 +215,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5198dee6cff4adc9",
+  "active": "c38aae88fe7e9d6e",
   "lastOpenFiles": [
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
+    "PDFs/Anatomy/Hippocampus/nickel2017.pdf",
+    "PDFs/Anatomy/Hippocampus/Unconfirmed 252648.crdownload",
+    "PDFs/Anatomy/Hippocampus",
+    "PDFs/Anatomy/New folder",
+    "PDFs/Anatomy/Globus Pallidus",
+    "PDFs/Dopamine/dum2022.pdf",
+    "PDFs/Dopamine/Unconfirmed 228085.crdownload",
+    "PDFs/Anatomy/Corpus Callosum/luders2016.pdf",
+    "PDFs/Anatomy/Corpus Callosum/Unconfirmed 122308.crdownload",
+    "PDFs/Anatomy/Corpus Callosum/el-hadad2021.pdf",
+    "PDFs/Anatomy/Corpus Callosum/Unconfirmed 506386.crdownload",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
-    "PDFs/Anatomy/Amygdala/mukherjee2022.pdf",
-    "PDFs/Anatomy/Amygdala/suk2023.pdf",
-    "PDFs/Anatomy/Amygdala/sun2023.pdf",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-    "PDFs/Anatomy/Amygdala/ou2023.pdf",
-    "PDFs/Anatomy/Amygdala/brotman2010.pdf",
-    "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf",
-    "PDFs/Anatomy/Amygdala/ko2022.pdf",
-    "PDFs/Anatomy/Amygdala/Unconfirmed 718936.crdownload",
-    "PDFs/Anatomy/Amygdala/Unconfirmed 334050.crdownload",
-    "PDFs/Anatomy/Amygdala/Unconfirmed 918306.crdownload",
     "Neurochemistry/Neurotransmitters/Dopamine.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tegmentum.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tectum.md",
@@ -251,8 +253,6 @@
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Globus Pallidus.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Fourth Ventricle.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Corpus Callosum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Peduncle.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Hemispheres.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
