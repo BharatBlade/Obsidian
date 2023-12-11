@@ -6,7 +6,7 @@
       {
         "id": "4bf50304618d9e6f",
         "type": "tabs",
-        "dimension": 43.14015375517445,
+        "dimension": 46.106683016554264,
         "children": [
           {
             "id": "d84ef5ac3fad74ee",
@@ -24,9 +24,11 @@
             "id": "1594d3a734e064dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf"
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,15 +38,51 @@
       {
         "id": "64b46406c1ae3839",
         "type": "tabs",
-        "dimension": 56.859846244825555,
+        "dimension": 53.893316983445736,
         "children": [
           {
-            "id": "673a245f1cb7e296",
+            "id": "5198dee6cff4adc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4402df6d36de7c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faafd45354f31a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12af624473cef278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 322.51103591918945
   },
   "right": {
     "id": "f435149f8a51b00d",
@@ -116,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf"
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md"
               }
             }
           }
@@ -177,34 +215,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1594d3a734e064dc",
+  "active": "5198dee6cff4adc9",
   "lastOpenFiles": [
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
+    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
+    "PDFs/Anatomy/Amygdala/mukherjee2022.pdf",
+    "PDFs/Anatomy/Amygdala/suk2023.pdf",
+    "PDFs/Anatomy/Amygdala/sun2023.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+    "PDFs/Anatomy/Amygdala/ou2023.pdf",
+    "PDFs/Anatomy/Amygdala/brotman2010.pdf",
+    "PDFs/Anatomy/brotman-et-al-2010-amygdala-activation-during-emotion-processing-of-neutral-faces-in-children-with-severe-mood.pdf",
     "PDFs/Anatomy/Amygdala/ko2022.pdf",
     "PDFs/Anatomy/Amygdala/Unconfirmed 718936.crdownload",
-    "PDFs/Anatomy/Amygdala/ou2023.pdf",
     "PDFs/Anatomy/Amygdala/Unconfirmed 334050.crdownload",
-    "PDFs/Anatomy/Amygdala/suk2023.pdf",
     "PDFs/Anatomy/Amygdala/Unconfirmed 918306.crdownload",
-    "PDFs/Anatomy/Amygdala/sun2023.pdf",
-    "PDFs/Anatomy/Amygdala/Unconfirmed 650727.crdownload",
-    "PDFs/Anatomy/Amygdala/mukherjee2022.pdf",
-    "PDFs/Anatomy/Amygdala/Mukherjee2022.pdf",
-    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
     "Neurochemistry/Neurotransmitters/Dopamine.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tegmentum.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tectum.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Subthalamus.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Striatum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Putamen.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pretectum.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pons.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pituitary.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Olfactory Bulb.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Medulla Oblongata.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hypothalamus.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hippocampus.md",
@@ -213,7 +253,6 @@
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Corpus Callosum.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Peduncle.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Hemispheres.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

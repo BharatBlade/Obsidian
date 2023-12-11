@@ -14,34 +14,17 @@ $\qquad$[[Attention Deficit Hyperactivity Disorder (ADHD)]] is defined by the Di
 
 ## Anatomy
 ### Brain
-#### [[Nucleus Accumbens]]
-> In animal experimental models, microinjections of [[dopamine]] into the [[nucleus accumbens]] increase locomotor activity (Pijnenburg and Van Rossum 1973), exploratory behaviors (Mogenson and Nielsen 1984), conditioned approach responses (Parkinson et al. 1999), and anticipatory sexual behaviors (Damsma et al. 1992).
 
-[[klein2018.pdf#page=12&selection=39,1,44,31|klein2018, page 12]]
+#### [[Amygdala]]
+
+#### [[Nucleus Accumbens]]
 
 #### [[Substantia Nigra]]
-> Dopamine quinones are short-lived toxic species that readily form covalent bonds with cellular macromolecules (Stokes et al. 1999). The dopamine quinone can also undergo intramolecular cyclization to aminochrome which polymerizes and forms neuromelanin, the dark pigment contained in the dopaminergic neurons found in the substantia nigra pars compacta
 
-[[klein2018.pdf#page=3&selection=149,35,157,30|klein2018, page 3]]
+#### [[Ventral Pallidum (VTA)]]
 
-> Neuromelanin is formed in dopaminergic neurons of substantia nigra pars compacta due to the levels of VMAT-2 which are lower than mes- olimbic system (Segura-Aguilar et al. 2014), leading to an inverse relationship between VMAT-2 expression level and neuromelanin content in human midbrain dopaminergic neurons (Liang et al. 2004).
-
-[[klein2018.pdf#page=4&selection=5,30,14,28|klein2018, page 4]]
-
-#### Ventral Pallidum
-> Experimental modulation of dopamine on the [[Ventral Pallidum (VTA)]] and [[olfactory tubercle]] has similar effects, but with more intense responses (Ike- moto 2007). Still, lesions in [[Ventral Pallidum (VTA)]] reduce natural and artificial reward responses. Moreover, when a GABA-A receptor antagonist is injected into the [[Ventral Pallidum (VTA)]], locomotion is increased
-
-[[klein2018.pdf#page=12&selection=44,32,50,9|klein2018, page 12]]
-
-> The administration of oxytocin receptor antagonists into the [[Ventral Pallidum (VTA)]] impairs maternal behavior
-
-[[klein2018.pdf#page=12&selection=62,31,64,8|klein2018, page 12]]
 ### Eyes
-#### Retina
-Amacrine cells release [[dopamine]] extracellularly during daylight
-> In the retina, amacrine cells release dopamine extracellularly during daylight, enhancing the activity of cone cells and increasing sensitiv- ity to color and contrast while suppressing rod cell activity
-
-[[klein2018.pdf#page=12&selection=7,33,10,61|klein2018, page 12]]
+#### [[Retina]]
 
 ## Physiology
 
