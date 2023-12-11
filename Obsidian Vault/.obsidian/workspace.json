@@ -6,7 +6,7 @@
       {
         "id": "4bf50304618d9e6f",
         "type": "tabs",
-        "dimension": 46.106683016554264,
+        "dimension": 44.34533290856961,
         "children": [
           {
             "id": "d84ef5ac3fad74ee",
@@ -31,58 +31,72 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21e728c74e200842",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Anatomy/Caudate/greven2015.pdf"
+              }
+            }
+          },
+          {
+            "id": "6154c075d4724f96",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Anatomy/Caudate/dang2016.pdf"
+              }
+            }
+          },
+          {
+            "id": "7b8c54c2d0dcd73d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Anatomy/Caudate/yang2017.pdf"
+              }
+            }
+          },
+          {
+            "id": "1ff8c955765217c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Anatomy/Caudate/damiani2020.pdf"
+              }
+            }
+          },
+          {
+            "id": "9c5a77eae9066998",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Anatomy/Caudate/mamiya2022.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "64b46406c1ae3839",
         "type": "tabs",
-        "dimension": 53.893316983445736,
+        "dimension": 55.65466709143039,
         "children": [
           {
-            "id": "5198dee6cff4adc9",
+            "id": "bde0917696d6c2c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4402df6d36de7c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faafd45354f31a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12af624473cef278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "file": "PDFs/Anatomy/Caudate/greven2015.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "file": "PDFs/Anatomy/Caudate/greven2015.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md"
+                "file": "PDFs/Anatomy/Caudate/greven2015.pdf"
               }
             }
           }
@@ -215,25 +229,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c38aae88fe7e9d6e",
+  "active": "21e728c74e200842",
   "lastOpenFiles": [
-    "PDFs/Anatomy/Hippocampus/nickel2017.pdf",
-    "PDFs/Anatomy/Hippocampus/Unconfirmed 252648.crdownload",
-    "PDFs/Anatomy/Hippocampus",
-    "PDFs/Anatomy/New folder",
-    "PDFs/Anatomy/Globus Pallidus",
-    "PDFs/Dopamine/dum2022.pdf",
-    "PDFs/Dopamine/Unconfirmed 228085.crdownload",
-    "PDFs/Anatomy/Corpus Callosum/luders2016.pdf",
-    "PDFs/Anatomy/Corpus Callosum/Unconfirmed 122308.crdownload",
-    "PDFs/Anatomy/Corpus Callosum/el-hadad2021.pdf",
-    "PDFs/Anatomy/Corpus Callosum/Unconfirmed 506386.crdownload",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
+    "PDFs/Anatomy/Caudate/mamiya2022.pdf",
+    "PDFs/Anatomy/Caudate/damiani2020.pdf",
+    "PDFs/Anatomy/Caudate/yang2017.pdf",
+    "PDFs/Anatomy/Caudate/dang2016.pdf",
+    "PDFs/Anatomy/Caudate/greven2015.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
+    "PDFs/Anatomy/Basal Ganglia/cascone2023.pdf",
+    "PDFs/Anatomy/Basal Ganglia/shvarzman2022.pdf",
+    "PDFs/Anatomy/Basal Ganglia/tang2019.pdf",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+    "PDFs/Anatomy/Hippocampus/nickel2017.pdf",
+    "PDFs/Anatomy/Hippocampus/Unconfirmed 252648.crdownload",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
