@@ -14,24 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1594d3a734e064dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "64b46406c1ae3839",
@@ -100,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51103591918945
+    "width": 438.5
   },
   "right": {
     "id": "f435149f8a51b00d",
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf",
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Anatomy/Cerebellum/goetz2017.pdf"
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md"
               }
             }
           }
@@ -177,23 +166,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1594d3a734e064dc",
+  "active": "c38aae88fe7e9d6e",
   "lastOpenFiles": [
-    "PDFs/Anatomy/Caudate/greven2015.pdf",
-    "PDFs/Anatomy/Caudate/mamiya2022.pdf",
-    "PDFs/Anatomy/Cerebellum/wu2022.pdf",
+    "PDFs/Cortices/Frontal Cortex/soros2017.pdf",
+    "PDFs/Cortices/Frontal Cortex/Unconfirmed 321058.crdownload",
+    "PDFs/Cortices/Occipital Cortex",
+    "PDFs/Cortices/New folder",
+    "PDFs/Cortices/Frontal Cortex/suzuki2017.pdf",
+    "PDFs/Cortices/Frontal Cortex/Unconfirmed 13200.crdownload",
+    "PDFs/Cortices/Frontal Cortex/wang2023.pdf",
+    "PDFs/Cortices/Frontal Cortex/Unconfirmed 50663.crdownload",
+    "PDFs/Cortices/Frontal Cortex/criaud2020.pdf",
+    "PDFs/Cortices/Frontal Cortex/Unconfirmed 283187.crdownload",
+    "PDFs/Cortices/Frontal Cortex/rubia2019.pdf",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
-    "PDFs/Anatomy/Caudate/damiani2020.pdf",
-    "PDFs/Anatomy/Caudate/yang2017.pdf",
-    "PDFs/Anatomy/Caudate/dang2016.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
-    "PDFs/Anatomy/Basal Ganglia/cascone2023.pdf",
-    "PDFs/Anatomy/Basal Ganglia/shvarzman2022.pdf",
-    "PDFs/Anatomy/Basal Ganglia/tang2019.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-    "PDFs/Anatomy/Hippocampus/nickel2017.pdf",
-    "PDFs/Anatomy/Hippocampus/Unconfirmed 252648.crdownload",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
