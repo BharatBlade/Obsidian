@@ -1,17 +1,17 @@
-> The same team found some subcortical regions of the brain, i.e., basal ganglia, amygdala, hippocampus, and intracranial volumes were smaller in children with ADHD in 23 cohorts of 3242 participants. The differences seen in children were not seen in adolescents or adults (Hoogman et al., 2017, 2019). All of the differences observed were small to very small and subtle.
+> The same team found some subcortical regions of the brain, i.e., [[basal ganglia]], [[amygdala]], [[hippocampus]], and intracranial volumes were smaller in children with ADHD in 23 cohorts of 3242 participants. The differences seen in children were not seen in adolescents or adults (Hoogman et al., 2017, 2019). All of the differences observed were small to very small and subtle.
 
 [[faraone2021.pdf#page=9&selection=155,1,170,22|faraone2021, page 9]]
 
 
-> D1-like receptors are mostly found in the cau- date–putamen (striatum), nucleus accumbens, substantia nigra pars reticulata, olfactory bulb, amygdala, and frontal cortex (Savasta et al. 1986; Wamsley et al. 1989).
+> D1-like receptors are mostly found in the [[caudate]]–[[putamen]] ([[striatum]]), [[nucleus accumbens]], [[substantia nigra]] pars reticulata, olfactory bulb, [[amygdala]], and [[frontal cortex]] (Savasta et al. 1986; Wamsley et al. 1989).
 
 [[klein2018.pdf#page=6&selection=35,14,43,50|klein2018, page 6]]
 
-> D2-like receptors are mainly expressed in striatum, the lateral part of the globus pallidus, core of the nucleus accumbens, ventral tegmental area, hypothalamus, amygdala, cortical areas, hip- pocampus, and pituitary (Wamsley et al. 1989; Yokoyama et al. 1994).
+> D2-like receptors are mainly expressed in [[striatum]], the lateral part of the [[globus pallidus]], core of the [[nucleus accumbens]], [[Tegmentum|ventral tegmental area]], [[hypothalamus]], [[amygdala]], cortical areas, [[hippocampus]], and [[pituitary]] (Wamsley et al. 1989; Yokoyama et al. 1994).
 
 [[klein2018.pdf#page=6&selection=43,51,54,13|klein2018, page 6]]
 
-> The VTA region is also the origin of dopaminergic projections to the amygdala, hippocampus, cingulate gyrus, and olfactory bulb (Fallon and Moore 1978; Loughlin and Fallon 1983; Gasbarri et al. 1997; Hasue and Shammah-Lagnado 2002; Otmakhova et al. 2013).
+> The [[Tegmentum|VTA]] region is also the origin of dopaminergic projections to the [[amygdala]], [[hippocampus]], cingulate gyrus, and olfactory bulb (Fallon and Moore 1978; Loughlin and Fallon 1983; Gasbarri et al. 1997; Hasue and Shammah-Lagnado 2002; Otmakhova et al. 2013).
 
 [[klein2018.pdf#page=12&selection=21,20,25,45|klein2018, page 12]]
 

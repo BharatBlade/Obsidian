@@ -17,11 +17,28 @@ $\qquad$[[Attention Deficit Hyperactivity Disorder (ADHD)]] is defined by the Di
 
 #### [[Amygdala]]
 
+#### [[Basal Ganglia]]
+
+#### [[Caudate]]
+
+#### [[Cerebellum]]
+
+#### [[Cingulate Gyrus]]
+
+#### [[Corpus Callosum]]
+
+#### [[Globus Pallidus]]
+
+#### [[Hippocampus]]
+
+#### [[Hypothalamus]]
+
+
 #### [[Nucleus Accumbens]]
 
 #### [[Substantia Nigra]]
 
-#### [[Ventral Pallidum (VTA)]]
+#### [[Ventral Pallidum]]
 
 ### Eyes
 #### [[Retina]]

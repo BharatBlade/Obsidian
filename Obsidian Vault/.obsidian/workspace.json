@@ -6,13 +6,49 @@
       {
         "id": "a40c102fd8ea08e0",
         "type": "tabs",
+        "dimension": 42.04432682765465,
         "children": [
           {
             "id": "a7a18bb16e0c1840",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1058c8015990ac3a",
+        "type": "tabs",
+        "dimension": 57.95567317234536,
+        "children": [
+          {
+            "id": "30fcff1e2773e28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44835283629b3d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md"
+              }
             }
           }
         ]
@@ -138,9 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7a18bb16e0c1840",
+  "active": "30fcff1e2773e28e",
   "lastOpenFiles": [
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hippocampus.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tegmentum.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum.md",
+    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
     "PDFs/Anatomy/Substantia Nigra/friedrich2023.pdf",
     "PDFs/Cortices/Frontal Cortex/soros2017.pdf",
     "PDFs/Cortices/Frontal Cortex/Unconfirmed 321058.crdownload",
@@ -151,16 +196,12 @@
     "PDFs/Cortices/Frontal Cortex/wang2023.pdf",
     "PDFs/Cortices/Frontal Cortex/Unconfirmed 50663.crdownload",
     "PDFs/Cortices/Frontal Cortex/criaud2020.pdf",
-    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum (VTA).md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
     "Neurochemistry/Neurotransmitters/Dopamine.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tegmentum.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tectum.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Subthalamus.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Striatum.md",
@@ -171,7 +212,6 @@
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Olfactory Bulb.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Medulla Oblongata.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hypothalamus.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hippocampus.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Globus Pallidus.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Fourth Ventricle.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Corpus Callosum.md",
