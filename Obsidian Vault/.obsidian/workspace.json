@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4bf50304618d9e6f",
+        "id": "a40c102fd8ea08e0",
         "type": "tabs",
-        "dimension": 44.34533290856961,
         "children": [
           {
-            "id": "d84ef5ac3fad74ee",
+            "id": "a7a18bb16e0c1840",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "64b46406c1ae3839",
-        "type": "tabs",
-        "dimension": 55.65466709143039,
-        "children": [
-          {
-            "id": "bde0917696d6c2c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c38aae88fe7e9d6e",
+  "active": "a7a18bb16e0c1840",
   "lastOpenFiles": [
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+    "PDFs/Anatomy/Substantia Nigra/friedrich2023.pdf",
     "PDFs/Cortices/Frontal Cortex/soros2017.pdf",
     "PDFs/Cortices/Frontal Cortex/Unconfirmed 321058.crdownload",
     "PDFs/Cortices/Occipital Cortex",
@@ -177,12 +151,9 @@
     "PDFs/Cortices/Frontal Cortex/wang2023.pdf",
     "PDFs/Cortices/Frontal Cortex/Unconfirmed 50663.crdownload",
     "PDFs/Cortices/Frontal Cortex/criaud2020.pdf",
-    "PDFs/Cortices/Frontal Cortex/Unconfirmed 283187.crdownload",
-    "PDFs/Cortices/Frontal Cortex/rubia2019.pdf",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
