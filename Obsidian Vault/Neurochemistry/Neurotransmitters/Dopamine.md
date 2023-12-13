@@ -61,7 +61,7 @@ $\qquad$$\qquad$$\qquad$$\qquad$• [[Olfactory Bulb]]
 $\qquad$$\qquad$$\qquad$$\qquad$• [[Substantia Nigra]]
 $\qquad$$\qquad$$\qquad$$\qquad$• [[Amygdala]]
 $\qquad$$\qquad$$\qquad$$\qquad$• [[Frontal Cortex]]
-> D1-like receptors are mostly found in the [[caudate]]–[[putamen]] ([[striatum]]), [[nucleus accumbens]], [[substantia nigra]] pars reticulata, [[olfactory bulb]], [[amygdala]], and [[frontal cortex]]
+> D1-like receptors are mostly found in the [[caudate]]–[[putamen]] ([[striatum]]), [[nucleus accumbens]], [[substantia nigra]] pars reticulata, [[olfactory bulb]], [[amygdala]], and [[Frontal Cortex]]
 
 [[klein2018.pdf#page=6&selection=35,14,43,6|klein2018, page 6]]
 ##### Function

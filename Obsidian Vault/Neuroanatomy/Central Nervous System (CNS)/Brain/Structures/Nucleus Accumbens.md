@@ -12,6 +12,6 @@ Transition zone between the [[Striatum]] and [[Amygdala]]
 
 
 
-> left NAcc showed greater functional connectivity with a region in the left posterior middle temporal gyrus with increasing irritability in the patient group.
+> left [[Nucleus Accumbens]] showed greater functional connectivity with a region in the left posterior [[middle temporal gyrus]] with increasing irritability in the patient group.
 
 [[mukherjee2022.pdf#page=8&annotation=370R|mukherjee2022, page 8]]

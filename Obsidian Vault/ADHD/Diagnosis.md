@@ -25,7 +25,7 @@ $\qquad$$\qquad$ $\qquad$ 2g. Often blurts out an answer before a question has b
 $\qquad$$\qquad$ $\qquad$ 2h. Often has difficulty waiting his or her turn (e.g., while waiting in line).
 $\qquad$$\qquad$ $\qquad$ 2i. Often interrupts or intrudes on others (e.g., butts into conversations, games, or activities; may start using other people’s things without asking or receiving permission; for adolescents and adults, may intrude into or take over what others are doing).
 
-> ADHD is characterized by inattention (daydreaming and distraction), impulsiveness, excessive motor activity, and hyperactivity (Lange et al. 2010; Matthews et al. 2014).
+> [[ADHD]] is characterized by inattention (daydreaming and distraction), impulsiveness, excessive motor activity, and hyperactivity (Lange et al. 2010; Matthews et al. 2014).
 
 [[klein2018.pdf#page=15&selection=98,0,100,56|klein2018, page 15]]
 ## Diagnostic Criteria
@@ -44,7 +44,7 @@ $\qquad$ $\qquad$ 1. 314.01 (F90.2) Combined presentation: If both Criterion A1 
 $\qquad$ $\qquad$ 2. 314.00 (F90.0) Predominantly inattentive presentation: If Criterion A1 (inattention) is met but Criterion A2 (hyperactivity-impulsivity) is not met for the past 6 months.
 $\qquad$ $\qquad$ 3. 314.01 (F90.1) Predominantly hyperactive/impulsive presentation: If Criterion A2 (hyperactivity-impulsivity) is met and Criterion A1 (inattention) is not met for the past 6 months.
 
-> The clinical presentation of ADHD can be described as primarily inattentive, primarily hyperactive-impulsive, or combined, depending on the nature of their symptoms (American Psychiat- ric Association, 2013). Meta-analyses indicate that inattention is more strongly associated with academic impairment, low self-esteem, negative occupational outcomes, and lower overall adaptive functioning. Hyperactive-impulsive symptoms are associated with peer rejection, aggression, risky driving behav- iors, and accidental injuries. Patterns of associated disorders also differ between the dimensions (Willcutt et al., 2012).
+> The clinical presentation of [[ADHD]] can be described as primarily inattentive, primarily hyperactive-impulsive, or combined, depending on the nature of their symptoms (American Psychiat- ric Association, 2013). Meta-analyses indicate that inattention is more strongly associated with academic impairment, low self-esteem, negative occupational outcomes, and lower overall adaptive functioning. Hyperactive-impulsive symptoms are associated with peer rejection, aggression, risky driving behaviors, and accidental injuries. Patterns of associated disorders also differ between the dimensions (Willcutt et al., 2012).
 
 [[faraone2021.pdf#page=5&selection=242,3,283,54|faraone2021, page 5]]
 ## Associated Features

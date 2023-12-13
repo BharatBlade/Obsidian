@@ -6,7 +6,7 @@
       {
         "id": "a40c102fd8ea08e0",
         "type": "tabs",
-        "dimension": 42.789034564958286,
+        "dimension": 48.67381489841986,
         "children": [
           {
             "id": "a7a18bb16e0c1840",
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "1058c8015990ac3a",
+        "id": "d7941f76e95572ee",
         "type": "tabs",
-        "dimension": 57.210965435041714,
+        "dimension": 51.32618510158014,
         "children": [
           {
-            "id": "30fcff1e2773e28e",
+            "id": "5ac5de992fd103db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,18 +40,17 @@
             }
           },
           {
-            "id": "44835283629b3d48",
+            "id": "eea1859f39daf850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/Anatomy/Amygdala/ou2023.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dat ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 333.5110321044922
   },
   "right": {
     "id": "f435149f8a51b00d",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+                "file": "PDFs/Anatomy/Amygdala/ou2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
+                "file": "PDFs/Anatomy/Amygdala/ou2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md"
+                "file": "PDFs/Anatomy/Amygdala/ou2023.pdf"
               }
             }
           }
@@ -165,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,44 +176,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30fcff1e2773e28e",
+  "active": "eea1859f39daf850",
   "lastOpenFiles": [
-    "PDFs/Anatomy/Amygdala/brotman2010.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-    "ADHD/Comorbidities/Comorbidities.md",
-    "ADHD/Comorbidities/Bipolar Disorder.md",
-    "ADHD/Comorbidities/Major Depressive Disorder.md",
-    "ADHD/Comorbidities/Conduct Disorder.md",
-    "ADHD/Comorbidities/Autism Spectrum Disorder.md",
-    "ADHD/Comorbidities/Generalized Anxiety Disorder.md",
-    "ADHD/Comorbidities",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Hippocampus.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tegmentum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Ventral Pallidum.md",
+    "PDFs/Anatomy/Amygdala/ou2023.pdf",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
+    "ADHD/ADHD.md",
+    "Neurochemistry/Enzymes/Catechol-O-Methyltransferase (COMT).md",
+    "Neurochemistry/Enzymes/Catechol-O-methyl transferase (COMT).md",
+    "MAO-B.md",
+    "Neurochemistry/Other Molecules/Intermediates/3-methoxytyramine.md",
+    "Neurochemistry/Hormones/Luteinizing Hormone (LH).md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Mesolimbic.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Mesocorticolimbic system.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Mesocortical.md",
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Incerto-Hypothalamic.md",
+    "growth hormone.md",
+    "Neurochemistry/Hormones/Gonadotropin Releasing Hormone (GRH).md",
+    "Neurochemistry/Enzymes/Monoamine oxidase (MAO).md",
+    "Neurochemistry/Enzymes/Monoamine Oxidase B (MAO-B).md",
+    "Neurochemistry/Enzymes/Monoamine transporter (MAT).md",
+    "Neurochemistry/Enzymes/mTOR complex 2 j(mTORC2).md",
+    "Neurochemistry/Enzymes/Parkinson disease protein 7 (PARK7).md",
+    "Neurochemistry/Enzymes/phenylethanolamine N-methyltransferase.md",
+    "Neurochemistry/Enzymes/Tyrosine Hydroxylase.md",
+    "Neurochemistry/Enzymes/Mitogen-activated protein kinase (MAPK).md",
+    "Neurochemistry/Enzymes/Microtubule-associated protein (MAPT).md",
+    "Neurochemistry/Enzymes/Leucine-rich repeat kinase 2 (LRRK2).md",
+    "Neurochemistry/Enzymes/L-amino acid decarboxylase (DOPA decarboxylase).md",
+    "PDFs/Anatomy/Amygdala/mukherjee2022.pdf",
+    "PDFs/Anatomy/Amygdala/brotman2010.pdf",
+    "ADHD/Comorbidities",
     "PDFs/Anatomy/Substantia Nigra/friedrich2023.pdf",
     "PDFs/Cortices/Frontal Cortex/soros2017.pdf",
     "PDFs/Cortices/Frontal Cortex/Unconfirmed 321058.crdownload",
     "PDFs/Cortices/Occipital Cortex",
     "PDFs/Cortices/New folder",
     "PDFs/Cortices/Frontal Cortex/suzuki2017.pdf",
-    "PDFs/Cortices/Frontal Cortex/Unconfirmed 13200.crdownload",
-    "PDFs/Cortices/Frontal Cortex/wang2023.pdf",
-    "PDFs/Cortices/Frontal Cortex/Unconfirmed 50663.crdownload",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cerebral Aqueduct.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Nucleus Accumbens.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Retina.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Substantia Nigra.md",
-    "Neurochemistry/Neurotransmitters/Dopamine.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Tectum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Subthalamus.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Striatum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Putamen.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pretectum.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pons.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Pituitary.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
