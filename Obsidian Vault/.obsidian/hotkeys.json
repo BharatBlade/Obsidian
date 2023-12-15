@@ -95,5 +95,13 @@
       ],
       "key": "Numpad1"
     }
+  ],
+  "obsidian-hotkeys-for-templates:4thIndent.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }

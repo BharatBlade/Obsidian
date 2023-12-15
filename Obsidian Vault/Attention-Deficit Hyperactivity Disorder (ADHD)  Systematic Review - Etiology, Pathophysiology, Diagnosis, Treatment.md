@@ -17,13 +17,108 @@ $\qquad$[[ADHD]] is defined by the Diagnostic and Statistical Manual of Mental D
 
 #### [[Amygdala]]
 
+[[ou2023.pdf]]
+<div style="margin-left: 8em">
+The amygdala, located in the temporal lobe, consists of several nuclei and modulates memory formation, fear, and anxiety.
+</div>
+
+[[suk2023.pdf]]
+<div style="margin-left:8em">
+Prior studies have shown associations between abnormalities of the amygdala and irritability. Irritability is associated with several psychiatric disorders, including ADHD. Suk et al took an additional step, exploring the associations of irritability with activation of the amygdala, and the associations of facial expression processing with activation of the amygdala. They recruited 59 children with disruptive mood and behavior disorder aged 10-18 with a self-reported Affective Reactivity Index (ARI) of at least 4. Major findings include increased activation in several regions of the brain in response to positive and negative facial expressions (happiness and fear). The regions of the brain were the right amygdala, right precuneus, right cingulate gyrus, bilateral cerebellum, right superior frontal gyrus, right middle occipital gyrus, and middle temporal gyrus.
+</div>
+
 #### [[Basal Ganglia]]
 
+[[Neuroanatomy, Basal Ganglia - StatPearls - NCBI Bookshelf.pdf]]
+
+<div style="margin-left: 8em">
+The basal ganglia consist of several, adjacent structures deep to the cerebrum. These structures are the striatum, subthalamic nucleus, and substantia nigra. The striatum contains the caudate, nucleus accumbens, olfactory tubercle, and lenticular nuclei. The lenticular nuclei are the putamen, globus pallidus externus, and globus pallidus internus. 
+</div>
+
+[[tang2019.pdf]]
+
+<div style="margin-left: 8em">
+Tang et al investigated the association between basal ganglia morphology and motor response control. ADHD children aged 8-12 were evaluated via go/no-go tasks and shape-based morphometric analyses of T1-weighted 3D MPRAGE images using a 3T scanner. The results showed decreased volumes and inward deformation of the putamen and dorsal globus pallidus in male, ADHD children relative to male controls. The same findings were absent in female, ADHD children relative to female controls. There was also a positive correlation between decreased volume/inward deformation of these structures and poorer motor response control.  
+</div>
+
+[[shvarzman2022.pdf]]
+
+<div style="margin-left: 8em">
+Shvarzman et al used diffusion tensor imaging (DTI) to investigate levels of iron deposition in the basal ganglia and their association with ADHD. They recruited ADHD children aged 8-12 for DTI of their brains, and also utilized brain-behavior analyses. They found that ADHD children had reduced iron in the bilateral limbic striatum. Lower tissue-iron levels in the bilateral limbic striatum correlated with anxious, depressive, and affective symptom severity.
+</div>
+
+[[cascone2023.pdf]]
+
+<div style="margin-left: 8em">
+Cascone et al used MRI and fMRI to assess intrinsic dopamine availability in the basal ganglia and thalamus of ADHD children aged 8-12. The ADHD-only participants also underwent a crossover methylphenidate challenge. They found that increased iron in the putamen was negatively associated with successful response inhibition regardless of ADHD-status. During their crossover challenge, they also found that higher putamen and caudate iron levels positively correlated with better response to methylphenidate. This was seen in the ADHD children's improved task performance with methylphenidate.
+</div>
 #### [[Caudate]]
+
+[[Neuroanatomy, Nucleus Caudate - StatPearls - NCBI Bookshelf.pdf]]
+
+<div style="margin-left: 8em">
+The caudate nuclei, which is located in the striatum in the basal ganglia, are subcortical structures lateral to the thalamus. Their neurons primarily consist of GABAergic medium spiny neurons that inhibit other basal ganglia structures. 
+</div>
+<div style="margin-left: 8em">
+
+</div>
+<div style="margin-left: 8em">
+
+</div>
+
+[[greven2015.pdf]]
+
+<div style="margin-left: 8em">
+Greven et al conducted a cross-sectional study with the goal of detecting associations with brain structure volume with ADHD. They used brain MRI data from the Dutch NeuroIMAGE sample dataset of ADHD children and adult patients, unaffected siblings, and typically developing control individuals. They were measuring volumes of the whole brain, along with the caudate nucleus, putamen, nucleus accumbens, amygdala, globus pallidus, hippocampus, thalamus, and brainstem. The findings in ADHD patients consisted of a 2.5% decrease in total brain volume of ADHD patients, 3% decrease in total gray matter volume. Unaffected siblings had increased total brain volume relative to ADHD patients, but still decreased total brain volume relative to typically developing controls. Age appeared to be negatively associated with caudate and putamen volumes in typically developing controls. However, in ADHD patients and their unaffected siblings, age had no statistically significant association with caudate/putamen volumes. 
+</div>
+
+[[dang2016.pdf]]
+
+<div style="margin-left: 8em">
+Dang et al aimed to clarify the relationship between caudate asymmetry and ADHD symptoms. T1-weighted MRI scans of adults aged 18-35 were analyzed for caudate asymmetry. The ADHD score from the Test of Variables of Attention (TOVA) was used to assess attentional problems, while impulsivity, was measured using the Barratt Impulsiveness Scale, a self-report measure. The findings suggest that larger right relative to left caudate volumes correlate with higher attentional impulsiveness and worse ADHD scores on the TOVA.
+</div>
+
+[[yang2017.pdf]]
+
+<div style="margin-left: 8em">
+Yang et al examined the dorsal caudate's functional connectivity with other parts of the brain in children with ADHD, using resting-state functional connectivity data from MRI scans. The results showed the dorsal caudate's positive connectivity with prefrontal areas, cingulate cortex, and temporal lobe, as well as its negative connectivity with precuneus, occipital cortices, and cerebellum. A correlation between the left dorsal caudate's connection to the left inferior frontal gyrus and severity of ADHD was also found.
+</div>
+
+[[damiani2020.pdf]]
+
+<div style="margin-left: 8em">
+
+</div>
+<div style="margin-left: 8em">
+The study aimed to clarify the relationship between subcortical regions and ADHD. Whole-brain voxel-wise resting state functional connectivity (rsFC) was measured via fMRI of ADHD children aged 7 to 18. Total ADHD, Hyperactivity and Inattention scores were collected using the Conners’ Parent Rating Scale Revised, Long Version, in order to evaluate associations between rsFC changes and ADHD. Structures of focus were the caudate, amygdala, putamen, pallidum and hippocampus. The study found that the caudate nucleus showed increased rsFC with the anterior cingulate and right insula. They also found that the increased rsFC of the caudate nucleus positively correlated with ADHD symptomatology.
+</div>
+
+[[mamiya2022.pdf]]
+
+<div style="margin-left: 8em">
+The study aimed to understand how changes in glutamate and GABA levels in the caudate nucleus and nucleus accumbens occur during attention control tasks. ADHD adults aged 31-51 years old were recruited for MPRAGE T1-weighted imaging and MRS scans while performing attention control tasks. During these tasks, smaller increases in glutamate and GABA were seen in ADHD patients compared to those without ADHD. These smaller increases also were found to positively correlate with worsening performance in the attention control tasks for ADHD patients.
+</div>
 
 #### [[Cerebellum]]
 
+[[goetz2017.pdf]]
+
+<div style="margin-left: 8em">
+
+</div>
+<div style="margin-left: 8em">
+This study aimed to investigate the relationship between ADHD and cerebellar/balance deficits. The study included ADHD children aged 7-11 that were  using the Phyaction Balance Board, and evaluated with an international ataxia rating scale and Conners’ Continuous Performance Test. The results showed that ADHD patients' balancing task performance and sway amplitudes were poorer than the control group.
+</div>
+
+[[wu2022.pdf]]
+
+<div style="margin-left: 8em">
+This study aimed to understand the neural mechanisms of emotional dysregulation (ED) in children with ADHD and MDD. Participants included 22 ADHD and 21 MDD patients, all with clinical ED. These patients underwent resting-state functional connectivity analysis, voxel-based morphometry, and diffusion tensor imaging analysis, along with clinical rating scales for ED, ADHD, and MDD. The results showed increased rsFC in the cerebellum and supramarginal gyrus, decreased rsFC in the right supplementary motor area and right lateral parietal area, lower gray matter (GM) volume in the SMG, and both RSFC and GM were correlated with clinical rating scale scores for all patients with ED due to ADHD or MDD. 
+</div>
+
 #### [[Cingulate Gyrus]]
+
+
 
 #### [[Corpus Callosum]]
 
