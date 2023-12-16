@@ -3,9 +3,15 @@
 [[ADHD]] is defined by the Diagnostic and Statistical Manual of Mental Disorders (DSM-V) as a chronic neurodevelopment disorder. It is described as a persistent, functionally debilitating pattern of inattention, hyperactivity, and/or impulsivity. There is a rapidly growing body of research regarding all aspects of ADHD, both in the basic and clinical sciences. The goal of this review is to compound this information, including the pathophysiology and clinical presentations of ADHD.
 
 # Background:
-$\qquad$[[ADHD]] is defined by the Diagnostic and Statistical Manual of Mental Disorders (DSM-V) as a chronic neurodevelopment disorder. It is described as a persistent, functionally debilitating pattern of inattention, hyperactivity, and/or impulsivity. Symptoms of ADHD are classified as either Inattention/Inattentive or Hyperactive/Hyperactivity. Inattention symptoms include carelessness, distractibility, easily sidetracked, disorganization, misplaces necessary items often, and forgetfulness. Hyperactivity symptoms include restlessness, impulsivity, impatience, intrusiveness, inability to play quietly, and excessive talking. In order for patients to be considered diagnosed with ADHD, multiple criteria are required. Symptoms must have started before age 12, presented in two or more settings, interfere with expected functioning, and can't be better attributed to another psychiatric illness. According to the DSM-V, for patients below 17 years old, six or more Inattention symptoms for at least six months are required to be diagnosed with "Predominantly Inattentive" presentation of ADHD. For patients below 17 years old, six or more Hyperactivity symptoms for at least six months are required to be diagnosed with "Predominantly Hyperactive/Impulsive" presentation of ADHD. If patients below 17 years old have at least six symptoms of both categories, then they are diagnosed with "Combined" presentation of ADHD. 
+$\qquad$Symptoms of ADHD are classified as either Inattention/Inattentive or Hyperactive/Hyperactivity. Inattention symptoms include carelessness, distractibility, easily sidetracked, disorganization, misplaces necessary items often, and forgetfulness. Hyperactivity symptoms include restlessness, impulsivity, impatience, intrusiveness, inability to play quietly, and excessive talking. In order for patients to be considered diagnosed with ADHD, multiple criteria are required. Symptoms must have started before age 12, presented in two or more settings, interfere with expected functioning, and can't be better attributed to another psychiatric illness. According to the DSM-V, for patients below 17 years old, six or more Inattention symptoms for at least six months are required to be diagnosed with "Predominantly Inattentive" presentation of ADHD. For patients below 17 years old, six or more Hyperactivity symptoms for at least six months are required to be diagnosed with "Predominantly Hyperactive/Impulsive" presentation of ADHD. If patients below 17 years old have at least six symptoms of both categories, then they are diagnosed with "Combined" presentation of ADHD. 
 
 ***ALLFROMDSV5"
+
+## Datasets and Methodology
+<div style="margin-left: 8em">
+This review discusses past studies that cover a wide variety of demographics, including children, adolescents, and adults diagnosed with ADHD, or with ADHD symptoms. While many studies recruited participants and performed imaging studies and task evaluations, other studies often utilized datasets of previously taken imaging and clinical scoring tests. Here we discuss the methods used, including research datasets, clinical scoring, imaging techniques, and statistical analyses.
+</div>
+
 
 # Pathophysiology:
 > The first comes from studies of the performance of patients on psychological tests that study mental processes. The second comes from methods that directly examine brain structure or function with neuroimaging scans. Although many of these studies have found differences between groups of people who are and are not diagnosed with ADHD, the differences are typically small and do not dramatically differ between people with ADHD and those with other disorders. They are, therefore, not useful for diagnosing the disorder (Thome et al., 2012). 
@@ -118,19 +124,125 @@ This study aimed to understand the neural mechanisms of emotional dysregulation 
 
 #### [[Cingulate Gyrus]]
 
+[[bauer2016.pdf]]
 
+<div style="margin-left: 8em">
+The study aimed to investigate glutamate levels in the anterior cingulate cortex (ACC) and dorsolateral prefrontal cortex (DLPFC) of adults with ADHD and healthy controls using single-voxel proton MRS on a 3T scanner. Results showed increased ACC glutamate levels in ADHD patients, and a positive correlation between glutamate levels in the ACC and severity of hyperactivity/impulsivity symptoms in ADHD patients.
+</div>
+
+[[bonath2016.pdf]]
+
+<div style="margin-left: 8em">
+The current study utilized voxel-based morphometry with DARTEL to measure regional gray matter volumes. The Culture Fair Intelligence Test and the d2-test were used to assess selective attention performance. Together these were analyzed to find correlations between gray matter abnormalities and ADHD symptoms. The researchers found that subjects with ADHD exhibited reduced GM volume in the anterior cingulate cortex (ACC), occipital cortex, bilateral hippocampus/amygdala, and widespread regions of the cerebellum in ADHD patients. GM volume in the ACC was negatively associated with test scores of selective inattention.
+</div>
+
+[[fernandez-jaen2016.pdf]]
+
+<div style="margin-left: 8em">
+The aim of this study was to investigate the association between dopamine transporter gene (DAT1) 3´UTR genotype and the cingulate cortical thickness in ADHD patients. Using brain MRIs from 46 ADHD patients homozygous for the 10-repeat allele and 52 ADHD patients with either 0 or 1 copies of the allele, researchers found that the homozygous individuals had increased thickness in the right cingulate gyrus and right Brodmann Area 24.
+</div>
+
+[[zhan2017.pdf]]
+
+<div style="margin-left: 8em">
+This study aimed to examine the subgenual anterior cingulate cortex (sgACC) of children diagnosed with ADHD-combined type (ADHD-C). The ADHD-C patients underwent Diffusion tensor imaging (DTI), resting-state functional MRI (rs-fMRI), and parent-based, clinical DSM-IV scoring of ADHD symptoms. They found a disconnected functional network between the sgACC, and the occipital lobe and cerebellum. Results also showed disrupted white matter in the subgenual cingulum bundle (sgCB), increased variability of spontaneous brain activity in the sgACC, and higher radial diffusivity in the sgCB. From their analyses, they found a negative correlation between increased clincal scores with sgACC spontaneous brain activity.
+</div>
+
+[[vogt2019.pdf]] Come back to this
+
+[[baytunca2021.pdf]]
+
+<div style="margin-left: 8em">
+The study examined dynamic regional cerebral blood flow alterations of ADHD children using event-related Arterial spin labeling (ASL) scanning. 17 healthy controls and 20 children with ADHD were scanned on a 3 Tesla MRI scanner during a go/no-go task. The right anterior cingulate cortex, frontopolar cortex, and orbitofrontal cortex (Brodmann Areas 32, 10, 11) activation was increased in ADHD children during the attention task. The findings suggest that ADHD children over-activated these regions to compensate for the increased attention demands.
+</div>
+
+<div style="margin-left: 8em">
+
+</div>
 
 #### [[Corpus Callosum]]
 
+[[luders2016.pdf]]
+
+<div style="margin-left: 8em">
+This study investigated whether there is a link between ADHD symptoms in adults over 60 years old and the thickness of their corpus callosum. Results indicated that in males the thickness of anterior third, anterior/posterior midbody, isthmus, and splenium of the corpus callosum was negatively correlated with inattention and hyperactivity. Females exhibited a positive correlation between the thickness of the rostral body of the corpus callosum and hyperactivity.
+</div>
+
+[[el-hadad2021.pdf]]
+
+<div style="margin-left: 8em">
+This study explored the changes in the white matter of the corpus callosum and their association with ADHD symptoms. In a case-control study conducted at Menoufia University Hospitals, researchers recruited ADHD children aged 3-14. Both behavioral and cognitive functions were evaluated by studying brain Diffusion Tensor Imaging (DTI) in correlation with radiological data from both groups. The results showed that the isthmus of the corpus callosum had a mean FA value lower in the ADHD group, indicating reduced white matter consistency.
+</div>
+
+[[dupont2023.pdf]]
+
+<div style="margin-left: 8em">
+This review discusses that decreased growth rates in the premotor, motor, sensory, and parietal regions of the corpus callosum of ADHD patients. Children with decreased rostral corpus callosum volume were found to have increased impulsivity and hyperactivity.  
+</div>
+
 #### [[Globus Pallidus]]
 
+[[dupont2022.pdf]]
+
+<div style="margin-left: 8em">
+In this study, the researchers aimed to investigate associations between  functional brain connectivity profiles and sex differences in ADHD adults.   Participants underwent structural MRI and rsfMRI on a 3 T full body MR scanner and seed-based connectivity analysis of the external globus pallidus (GPe) was performed. Their results showed that male ADHD patients had decreased functional connectivity compared to female ADHD patients, specifically between GPe and left middle temporal gyrus and middle frontal gyrus. They also found that ADHD males with comorbid depression showed decreased GPe FC with the occipital cortex.
+</div>
+
+[[Agoalikum2023.pdf]] I have no idea what granger causality is
 #### [[Hippocampus]]
 
+[[nickel2017.pdf]]
+
+<div style="margin-left: 8em">
+The study aimed to compare amygdala and hippocampus volumes using MRIs of ADHD adults and controls. Clinician-administered diagnostic interviews and self-report scales were also collected. Results showed that there was no significant difference in volume of either region. However, they found hyperactivity in specifically ADHD patients negatively correlated with left amygdala volumes.
+</div>
+
 #### [[Hypothalamus]]
+
+[[ma2011.pdf]]
+
+<div style="margin-left: 8em">
+The association between the hypothalamus–pituitary–adrenal (HPA) axis and ADHD in non-stress states. Participants were male children with ADHD aged 6 to 14. ADHD was delineated into three sub-groups: ADHD-predominantly inattention type (ADHD-I), ADHD-predominantly hyperactive impulsive type (ADHD-HI), and ADHD-combined type (ADHD-C). The levels of cortisol and adrenocorticotropin hormone (ACTH) were evaluated per morning (8:00 am). ADHD patients overall showed decreased cortisol relative to the control group. The ADHD-HI group specifically showed even further decreased cortisol relative to the other two groups (ADHD-I and ADHD-C). No associations regarding ACTH were found.
+</div>
+
+#### [[Middle Frontal Gyrus]]
+
 
 
 #### [[Nucleus Accumbens]]
 
+
+#### [[Putamen]]
+
+[[max2002.pdf]]
+
+<div style="margin-left: 8em">
+The study aimed to examine the association between focal stroke lesions in children and ADHD/ADHD traits. Participants underwent psychiatric assessments including the Schedule for Affective Disorders and Schizophrenia for School-Age Children, Present and Lifetime Version (K-SADS-PL) and brain MRIs. Of the patients with ADHD/ADHD traits, the densest area of overlapping lesions was in the posterior ventral putamen. Of the remaining patients (no ADHD/ADHD traits), none of them had lesions in the posterior ventral putamen. They found that those with lesions in this region were more likely to have ADHD.
+</div>
+
+[[wellington2006.pdf]]
+
+<div style="margin-left: 8em">
+The aim of this study is to investigate differences in putamen volumes among  ADHD combined subtype male children with psychopathic traits and controls. Using past MRI scans, the putamens in both groups are analyzed but no local volume differences were found. However, a reversal of symmetry in the putamen is discovered in which children with ADHD tend to have smaller left relative to right putamens compared to their control counterparts who have smaller right relative to left putamens.
+</div>
+
+[[cao2009.pdf]]
+
+<div style="margin-left: 8em">
+The study aimed to explore differences in putamen functional connectivity between medication-naïve ADHD children and typically developing children. Using seed-based correlation analyses in resting-state fMRI data, it was found in the controls (TD children) that there was positive putamen functional connectivity with the bilateral sensorimotor areas, prefrontal cortex, insula, superior temporal gyrus, and subcortical regions. Negative putamen functional connectivity was observed in the bilateral parietal and occipital cortices. Negative putamen FC was also seen in the frontal and middle temporal cortices and cerebellum. ADHD children relative to controls had, increased left putamen FC with the right globus pallidus/thalamus, decreased left putamen positive FC with the right frontal and limbic regions, decreased left putamen negative FC with the right cerebellum and right temporal lobe, and decreased right putamen negative FC with the left cerebellum and right precuneus.
+</div>
+
+[[xu2017.pdf]]
+
+<div style="margin-left: 8em">
+In this study, researchers investigated a specific genetic variant, rs945270 (reported to affect putamen volume), linked with increased symptoms of attention-deficit/hyperactivity disorder (ADHD) in 14-year-old adolescents. They used a large sample size of 1834 children, and analyzed ADHD symptoms via their Strengths and Difficulties Questionnaire (SDQ). They also analyzed the Region-of-interest (ROI) analyses of putamen activation by functional magnetic resonance imaging (fMRI) using the Stop Signal (SST, for assessing response inhibition) and monetary incentive delay (MID, for assessing reward sensitivity) tasks. They found that the C-allele at rs945270 was negatively correlated with symptom scores, especially hyperactivity. However in males, the c-allele was negative correlated with putamen activity during successful response inhibition, regardless of ADHD symptoms. In females, the c-allele was positive correlated with bilateral (right more than left) putamen activity during reward anticipation. Right putamen activation negatively correlated with ADHD symptoms.
+</div>
+
+[[lan2021.pdf]] I still don't fully understand granger causality
+
+<div style="margin-left: 8em">
+
+</div>
 #### [[Substantia Nigra]]
 
 #### [[Ventral Pallidum]]
