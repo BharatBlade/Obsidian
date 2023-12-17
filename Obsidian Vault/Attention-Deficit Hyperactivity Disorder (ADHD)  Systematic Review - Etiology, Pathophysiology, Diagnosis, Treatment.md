@@ -1,4 +1,4 @@
-
+ 
 # Abstract:
 [[ADHD]] is defined by the Diagnostic and Statistical Manual of Mental Disorders (DSM-V) as a chronic neurodevelopment disorder. It is described as a persistent, functionally debilitating pattern of inattention, hyperactivity, and/or impulsivity. There is a rapidly growing body of research regarding all aspects of ADHD, both in the basic and clinical sciences. The goal of this review is to compound this information, including the pathophysiology and clinical presentations of ADHD.
 
