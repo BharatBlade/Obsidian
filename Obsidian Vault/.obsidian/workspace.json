@@ -6,7 +6,6 @@
       {
         "id": "727b9d8e5c4e0e6c",
         "type": "tabs",
-        "dimension": 56.9926873857404,
         "children": [
           {
             "id": "bc78b3f6aec5dd70",
@@ -70,44 +69,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "82ebbff9c784642c",
-        "type": "tabs",
-        "dimension": 43.0073126142596,
-        "children": [
-          {
-            "id": "09c1cf3ac27d0da9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Amygdala/brotman2010.pdf"
-              }
-            }
-          },
-          {
-            "id": "e7dab139d71a2649",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Amygdala/mukherjee2022.pdf"
-              }
-            }
-          },
-          {
-            "id": "e6d73d8edeaad38b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Anatomy/Amygdala/ou2023.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,26 +195,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edafee86e310350f",
+  "active": "c38aae88fe7e9d6e",
   "lastOpenFiles": [
+    "PDFs/Dopamine/Receptors/squassina2008.pdf",
+    "PDFs/Dopamine/Receptors/squassina2008.pdf.crdownload",
+    "PDFs/Dopamine/Receptors/palaniyappan2019.pdf",
+    "PDFs/Dopamine/Receptors/palaniyappan2019.pdf.crdownload",
+    "PDFs/Dopamine/Receptors/chang2018.pdf",
+    "PDFs/Dopamine/Receptors/chang2018.pdf.crdownload",
+    "PDFs/Dopamine/Receptors/qian2018.pdf",
+    "PDFs/Dopamine/Receptors/qian2018.pdf.crdownload",
+    "PDFs/Dopamine/Receptors/tomlinson2015.pdf",
+    "PDFs/Dopamine/Receptors/tomlinson2015.pdf.crdownload",
+    "PDFs/Dopamine/Receptors/qin2016.pdf",
     "ADHD/Datasets and References.md",
-    "PDFs/Anatomy/Amygdala/ou2023.pdf",
     "ADHD/Clinical Scoring.md",
     "ADHD/Statistical Analyses.md",
     "ADHD/Imaging.md",
-    "PDFs/Anatomy/Amygdala/mukherjee2022.pdf",
-    "PDFs/Anatomy/Amygdala/brotman2010.pdf",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
     "References/References.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cortices/Cingulate Cortex.md",
     "ADHD/ADHD.md",
-    "PDFs/Anatomy/Putamen/lan2021.pdf",
-    "PDFs/Anatomy/Putamen/xu2017.pdf",
-    "PDFs/Anatomy/Putamen/cao2009.pdf",
-    "PDFs/Anatomy/Putamen/wellington2006.pdf",
-    "PDFs/Anatomy/Putamen/max2002.pdf",
-    "PDFs/Anatomy/Hypothalamus/ma2011.pdf",
-    "PDFs/Anatomy/Hippocampus/nickel2017.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
