@@ -124,6 +124,8 @@ This study aimed to understand the neural mechanisms of emotional dysregulation 
 
 #### [[Cingulate Gyrus]]
 
+The cingulate gyrus and cortex reside within the medial surface of the cerebral hemisphere and are part of the limbic system, playing a crucial role in numerous vital neural circuits which interact with structures such as the reward area of the limbic cortex. The set of Brodmann areas 24, 25, 31, 32, 33, 23, 26, 29, and 30 constitute the cingulate gyrus. This information is important for understanding the anatomy of the brain's limbic system, which plays a critical role in regulating emotions, motivation, and cognitive function. wadekane2022 and StatPearls
+
 [[bauer2016.pdf]]
 
 <div style="margin-left: 8em">

@@ -1,88 +1,37 @@
 {
   "main": {
-    "id": "bc561b64a53e8f95",
+    "id": "af6a53a5cd1f73ba",
     "type": "split",
     "children": [
       {
-        "id": "727b9d8e5c4e0e6c",
+        "id": "bf83f876028d4840",
         "type": "tabs",
         "children": [
           {
-            "id": "bc78b3f6aec5dd70",
+            "id": "69666c1729504ea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ADHD/Datasets and References.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d466ee51c3f9dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADHD/Clinical Scoring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b663373f95dc9c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADHD/Imaging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dc5420c22f3f3a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADHD/Statistical Analyses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edafee86e310350f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2455d2f09d2d66dc",
+    "id": "e9ea059c68029b83",
     "type": "split",
     "children": [
       {
-        "id": "7d61c07288216673",
+        "id": "f8a96fe2f6dd52ac",
         "type": "tabs",
         "children": [
           {
-            "id": "c38aae88fe7e9d6e",
+            "id": "e1992896177cd248",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,12 +41,12 @@
             }
           },
           {
-            "id": "6e68ad24caaf61de",
+            "id": "556f729ad9715319",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "dat ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +56,7 @@
             }
           },
           {
-            "id": "53ab3d7c476afb01",
+            "id": "332f66eef0c10614",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,23 +67,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50418853759766
+    "width": 300
   },
   "right": {
-    "id": "f435149f8a51b00d",
+    "id": "43f94faf7380d2d5",
     "type": "split",
     "children": [
       {
-        "id": "1b882a41a2a19c38",
+        "id": "292e5e290a882b35",
         "type": "tabs",
         "children": [
           {
-            "id": "18082604e27f8591",
+            "id": "7d8e235e13ad68ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +95,19 @@
             }
           },
           {
-            "id": "6c79a680ae1e7947",
+            "id": "bb49a37d8564c352",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e4bdc40333ee7eb2",
+            "id": "6fbf8604f82519e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,12 +118,12 @@
             }
           },
           {
-            "id": "c277600fafc7f06b",
+            "id": "59d0d006e2ada3e1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md"
+                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf"
               }
             }
           }
@@ -182,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,55 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edafee86e310350f",
+  "active": "69666c1729504ea6",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "ADHD/Statistical Analyses.md",
-    "ADHD/Imaging.md",
-    "ADHD/Clinical Scoring.md",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
-    "ADHD/Datasets and References.md",
-=======
-    "ADHD/Clinical Scoring.md",
-    "ADHD/Datasets and References.md",
-    "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
->>>>>>> 36a09a4692aba71265dc17e9d64482e9faec984e
-    "PDFs/Dopamine/Receptors/squassina2008.pdf",
-    "PDFs/Dopamine/Receptors/squassina2008.pdf.crdownload",
-    "PDFs/Dopamine/Receptors/palaniyappan2019.pdf",
-    "PDFs/Dopamine/Receptors/palaniyappan2019.pdf.crdownload",
-    "PDFs/Dopamine/Receptors/chang2018.pdf",
-    "PDFs/Dopamine/Receptors/chang2018.pdf.crdownload",
-    "PDFs/Dopamine/Receptors/qian2018.pdf",
-    "PDFs/Dopamine/Receptors/qian2018.pdf.crdownload",
-    "PDFs/Dopamine/Receptors/tomlinson2015.pdf",
-    "PDFs/Dopamine/Receptors/tomlinson2015.pdf.crdownload",
-<<<<<<< HEAD
-=======
-    "ADHD/Statistical Analyses.md",
-    "ADHD/Imaging.md",
->>>>>>> 36a09a4692aba71265dc17e9d64482e9faec984e
-    "References/References.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Cortices/Cingulate Cortex.md",
-    "ADHD/ADHD.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Caudate.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Basal Ganglia.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Amygdala.md",
-    "Neurochemistry/Enzymes/Catechol-O-Methyltransferase (COMT).md",
-    "Neurochemistry/Enzymes/Catechol-O-methyl transferase (COMT).md",
-    "MAO-B.md",
-    "Neurochemistry/Other Molecules/Intermediates/3-methoxytyramine.md",
-    "Neurochemistry/Hormones/Luteinizing Hormone (LH).md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Mesolimbic.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Mesocorticolimbic system.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Mesocortical.md",
-    "Neuroanatomy/Central Nervous System (CNS)/Brain/Pathways/Incerto-Hypothalamic.md",
-    "growth hormone.md",
-    "Neurochemistry/Hormones/Gonadotropin Releasing Hormone (GRH).md",
-    "Neurochemistry/Enzymes/Monoamine oxidase (MAO).md",
-    "Neurochemistry/Enzymes/Monoamine Oxidase B (MAO-B).md",
-    "Neurochemistry/Enzymes/Monoamine transporter (MAT).md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Gyri/Cingulate Gyrus.md"
   ]
 }
