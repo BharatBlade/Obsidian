@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bf83f876028d4840",
+        "id": "fa9ca8cdff2803a6",
         "type": "tabs",
         "children": [
           {
-            "id": "69666c1729504ea6",
+            "id": "6b5afd3a87f8e973",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf"
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf",
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf",
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Anatomy/Amygdala/sun2023.pdf"
+                "file": "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md"
               }
             }
           }
@@ -144,9 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69666c1729504ea6",
+  "active": "6b5afd3a87f8e973",
   "lastOpenFiles": [
+    "PDFs/Anatomy/Nucleus Accumbens/franco2015.pdf",
+    "PDFs/Anatomy/Pituitary/~~$fortier2012.pdf",
+    "PDFs/Anatomy/Pituitary/west2009.pdf",
+    "PDFs/Anatomy/Middle Frontal Gyrus/tafazoli2013.pdf",
     "Attention-Deficit Hyperactivity Disorder (ADHD)  Systematic Review - Etiology, Pathophysiology, Diagnosis, Treatment.md",
+    "PDFs/Anatomy/Amygdala/sun2023.pdf",
+    "PDFs/Anatomy/Amygdala/mukherjee2022.pdf",
+    "PDFs/Anatomy/Amygdala/ou2023.pdf",
     "Neuroanatomy/Central Nervous System (CNS)/Brain/Structures/Gyri/Cingulate Gyrus.md"
   ]
 }
