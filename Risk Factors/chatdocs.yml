@@ -1,0 +1,42 @@
+embeddings:
+  model: BAAI/bge-small-en-v1.5
+  model_kwargs:
+    device: cuda
+
+llm: ctransformers
+
+ctransformers:
+  model: TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF
+  model_file: tinyllama-1.1b-chat-v0.3.Q2_K.gguf
+  model_type: llama
+  config:
+    gpu_layers: 40
+    context_length: 16384
+    max_new_tokens: 256
+
+huggingface:
+  model: TheBloke/Wizard-Vicuna-7B-Uncensored-HF
+  device: 0
+  pipeline_kwargs:
+    max_new_tokens: 256
+
+gptq:
+  model: TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ
+  model_file: model.safetensors
+  pipeline_kwargs:
+    max_new_tokens: 256
+
+download: false
+
+host: localhost
+port: 5000
+auth: false
+
+chroma:
+  persist_directory: db
+  chroma_db_impl: duckdb+parquet
+  anonymized_telemetry: false
+
+retriever:
+  search_kwargs:
+    k: 4

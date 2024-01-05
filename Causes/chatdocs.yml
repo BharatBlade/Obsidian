@@ -1,0 +1,42 @@
+embeddings:
+  model: BAAI/bge-small-en-v1.5
+  model_kwargs:
+    device: cuda
+
+llm: ctransformers
+
+ctransformers:
+  model: TheBloke/Synthia-7B-v3.0-GGUF
+  model_file: synthia-7b-v3.0.Q4_K_S.gguf
+  model_type: llama
+  config:
+    gpu_layers: 28
+    context_length: 1024
+    max_new_tokens: 256
+
+huggingface:
+  model: TheBloke/Wizard-Vicuna-7B-Uncensored-HF
+  device: 0
+  pipeline_kwargs:
+    max_new_tokens: 256
+
+gptq:
+  model: TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ
+  model_file: model.safetensors
+  pipeline_kwargs:
+    max_new_tokens: 256
+
+download: false
+
+host: localhost
+port: 5000
+auth: false
+
+chroma:
+  persist_directory: db
+  chroma_db_impl: duckdb+parquet
+  anonymized_telemetry: false
+
+retriever:
+  search_kwargs:
+    k: 4
